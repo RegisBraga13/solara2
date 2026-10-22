@@ -1,0 +1,35 @@
+# Tumores Cardíacos Benignos
+
+**Contexto:** tumores cardíacos são raros (~0,02%); os primários são mais raros que as metástases; 85% dos primários são benignos.
+
+**Tipos**
+- **Mixoma** (2º benigno mais comum em adultos; 5–84 anos, ~64% mulheres; produz VEGF; geralmente pediculado e gelatinoso, às vezes friável/viloso): tríade de **obstrução de câmaras** (2/3; ICC ou baixo débito por efeito de válvula de retenção; os grandes e lisos), **embolia** (1/3; os pequenos e friáveis: AVC, artéria retiniana, periférica) e **sintomas constitucionais** (1/3; por interleucina-6, mimetizam endocardite, colagenose ou neoplasia). Ver Mixoma Atrial.
+- **Fibroelastoma papilar:** benigno ressecado mais comum em adultos; aspecto de "anêmona-do-mar"; > 60 anos; valvas (80%, sobretudo aórtica), lado distal das valvas (oposto às vegetações da endocardite); pequeno (8–9 mm), pedunculado, móvel, às vezes múltiplo. Em geral assintomático; principal manifestação é embolia (esquerdo: AVC/AIT, IAM, periférica; direito: TEP); raramente IC ou morte súbita se grande.
+- **Rabdomioma:** mais comum em crianças (60%); > 90% detectados intraútero; 80–90% associados à esclerose tuberosa (mutação TSC2); paredes ventriculares ou valvas AV; tendem a regredir espontaneamente; podem causar obstrução ou arritmias (bloqueios, TV).
+- **Fibroma:** 2º mais comum em crianças (maioria < 1 ano), também adultos; parede ventricular (sobretudo VE), pode ser grande; IC, obstrução, arritmias com risco de morte súbita; **não regride**.
+- **Teratoma:** germinativo; períodos fetal e neonatal, raro em adultos; pericárdio com parte no miocárdio, encapsulado, não invasivo; cresce em semanas e causa tamponamento, baixo débito, hidropsia fetal e óbito; em geral entre aorta ascendente e AD, comprimindo o coração direito; cirurgia (inclusive intraútero).
+- **Tumor de células de Purkinje/hamartoma:** pequenos, endocárdio/epicárdio, quase indetectáveis em imagem; geralmente no VE; crianças pequenas com TV incessante e padrão de BRD; detectados por estudo eletrofisiológico e ressecados.
+- **Lipoma:** ~50% subendocárdicos (arritmias, morte súbita); também valvares (IC) e pericárdicos; RM identifica gordura; ressecção. **Hipertrofia lipomatosa do septo interatrial não é tumor** (topografia típica, sem arritmias).
+- **Podem ser benignos ou malignos:** *paragangliomas* (neuroendócrinos, secretores ou não; mais no pericárdio; obstrução/tamponamento ou efeitos catecolaminérgicos; muito vascularizados, exigem coronariografia para planejamento e bloqueio adrenérgico peri-operatório se secretores); *mesoteliomas* (pericárdio, majoritariamente malignos; tamponamento; líquido pericárdico diagnóstico; nó AV raramente, com bloqueios; cirurgia curativa se benigno).
+
+**Quadro clínico:** mecanismos: embolia sistêmica/pulmonar; obstrução de fluxo (simula estenose valvar); invasão valvar (insuficiência); invasão miocárdica (restrição, arritmias, derrame com tamponamento); invasão pulmonar (simula carcinoma); sintomas sistêmicos (febre, rash, anorexia, perda de peso, artralgia, fadiga). Depende da localização:
+- *AE:* obstrução ou IM (dispneia, ortopneia, DPN, tosse, EAP, HP, IC direita; sintomas variam com a posição).
+- *AD:* semelhante a estenose tricúspide (fadiga, edema, hepatomegalia, ascite, jugulares).
+- *VD:* IC direita e morte súbita. *VE:* obstrução da via de saída (síncope, dor torácica); intramurais: arritmias/condução. Embolia: baço, cérebro, pulmão.
+
+**Diagnóstico**
+- **ECG** inespecífico (arritmias, bloqueios, sobrecargas, desvio de eixo). **Eco transtorácico** é a 1ª etapa (forma, tamanho, mobilidade, fonte de embolia/obstrução); **ETE** é mais específico (ponto de fixação, tamanho, embolias): sensibilidade para fibroelastoma 62% (TT) vs. 77% (TE).
+- **RM:** localização, tamanho, forma, complicações, caracterização tecidual e infiltração, diferencia tumor de trombo e benigno de maligno. **TC de alta resolução:** quando RM indisponível/contraindicada; preferível ao cateterismo para coronárias se tumor perto dos óstios (evita embolização). **Cateterismo:** nutrição do tumor (coronariografia) e pressões; pré-operatório.
+- **Padrões de imagem:** malignidade: fora das câmaras, imóvel, derrame pericárdico, invasão miocárdica, realce; tumor vs. trombo: fora do AD, hiperintensidade em T2, realce; **mixoma:** baixa atenuação na TC, T2 muito hiperintenso (muita água), pouco ou nenhum realce, em geral fácil ao eco se liso e aderido ao septo; **fibroelastoma:** aparência pontilhada com irregularidades nas bordas no eco, T2 hiperintenso, sem realce significativo (avascular).
+- **Diferenciais:** IC, valvopatias, trombos, endocardite infecciosa e trombótica, AVC isquêmico, infarto esplênico.
+
+**Tratamento**
+- Farmacológico limitado: **everolimo e sirolimo** (inibidores de mTOR) para rabdomiomas sintomáticos em crianças (neonatos/lactentes com instabilidade, arritmia ou obstrução; via mTOR desregulada na esclerose tuberosa, ~90%). Redução média do tumor ~57% em 60–70 dias; melhora clínica em ~90% e redução de tamanho em 95%; doses típicas **everolimo 1,03 mg/m²/dia e sirolimo 1,37 mg/m²/dia**; temporária e segura, útil em alto risco ou inoperáveis. Demais benignos: sem terapia específica; cirurgia se sintomáticos.
+- **Cirurgia:** *mixoma* logo após o diagnóstico (mortalidade operatória 0–3%, prognóstico excelente). *Fibroelastoma:* sintomático ou de alto risco (pedículo móvel, > 1 cm, muito móvel); mortalidade 0–2,5%, eventos neurológicos em 1,3%; em centros de referência cada vez mais recomendada nos do lado esquerdo independentemente de tamanho/mobilidade (valva preservada em 96–98%); pequenos do lado direito assintomáticos sem FOP/CIA: acompanhar com eco. *Fibroma:* sintomático; ressecção subtotal preferida à total agressiva; pode exigir reconstrução complexa (septo/parede livre, bypass, valva) e, em envolvimento difuso, transplante. *Rabdomioma:* em geral adiada (regressão espontânea); reservada a casos graves, com excisão subtotal razoável.
+- Grandes tumores, mesmo assintomáticos: avaliar ressecção (progressão, arritmias, embolização). Rabdomiomas assintomáticos: apenas seguir.
+
+**Seguimento e prognóstico**
+- *Mixoma esporádico:* recorrência 1–3%; ECOTT em 1 ano e depois a cada 5 anos (a cada 6 meses nos primeiros 10 anos se maior risco: jovens, tumores pequenos, ventriculares). *Familiar/Carney:* recorrência 12–22% (mesmo após 20 anos); ECOTT anual desde a infância; a cada 6 meses se já operado; teste PRKAR1A em parentes de 1º grau. Mixoma associa-se a mais tumores extracardíacos: vigilância global.
+- *Fibroelastoma:* recorrência 12,2% (12–16%) em 5,4 anos e 15,8% em 10 anos; ETE de rotina (sobretudo com embolia prévia), periodicidade a critério.
+- *Rabdomioma:* sintomáticos: ECOTT e ECG a critério (podem crescer ou recorrer na puberdade, 3,9% entre 10–15 anos); assintomáticos: ECOTT a cada 1–3 anos até iniciar a regressão.
+- *Fibroma:* seguimento não padronizado, recorrência baixa mesmo com ressecção incompleta; ECOTT periódico e RM se eco inconclusivo.

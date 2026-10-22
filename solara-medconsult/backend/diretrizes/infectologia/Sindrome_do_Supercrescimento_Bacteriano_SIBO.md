@@ -1,0 +1,22 @@
+# Síndrome do Supercrescimento Bacteriano (SIBO)
+
+**Definição:** aumento anormal da população bacteriana no intestino delgado, com espécies típicas do cólon (disbiose); causa sintomas digestivos e, nos graves, má absorção. Inclui o supercrescimento de metanogênios (IMO), por arqueias produtoras de metano.
+
+**Fatores de risco:** distúrbios de motilidade (neuropatia diabética, esclerose sistêmica, opioides/anticolinérgicos/alguns antidepressivos, amiloidose, hipotireoidismo, Parkinson, pseudo-obstrução); hipocloridria (gastrite atrófica; IBP é controverso); anormalidades anatômicas (divertículos de delgado, estenoses e fístulas, Crohn, alças cegas pós-gastrectomia ou bypass, perda da válvula ileocecal); imunodeficiências (IgA, CVID, aids, desnutrição); DM, cirrose, pancreatite crônica/insuficiência pancreática, fibrose cística, doença celíaca refratária, DRC avançada, idade avançada.
+
+**Quadro clínico:** dor e distensão abdominal, flatulência, náusea, eructação, saciedade precoce, pirose; **diarreia** aquosa (associada ao SIBO por H₂/H₂S) ou **constipação** (IMO por CH₄); fadiga, perda de peso, "brain fog". Avançado: esteatorreia, anemia (ferro, B12/folato), osteopenia, neuropatia por B12, edema, cegueira noturna (vit. A), tetania por hipocalcemia. Sintomas isolados têm baixo valor preditivo (diarreia é o mais consistente). Maior risco de mortalidade: neonatos desnutridos, idosos com comorbidades e diarreia crônica, pós-cirurgia de trato digestivo alto, desnutridos, diabéticos descompensados/esclerodermia. Complicações: encefalopatia hepática, acidose láctica, esteatose hepática.
+
+**Diagnóstico**
+- Exame físico inespecífico (distensão, dor difusa, sinais de desnutrição, palidez, edema). Laboratório: ferro, B12, folato, vitaminas lipossolúveis. Imagem/endoscopia com biópsia para excluir outras doenças.
+- **Teste respiratório** (método de escolha): glicose 75 g (mais específica para SIBO proximal; evitar em diabéticos) ou lactulose 10 g (atinge delgado distal; mais falso-positivo por trânsito rápido). Coletas basal e a cada 15–20 min por 90–120 min. Preparo: suspender antibióticos 4 semanas antes, procinéticos/laxativos 1 semana, evitar opioides no dia anterior, dieta pobre em carboidratos fermentáveis e fibras por 24 h.
+- **Critérios (ACG 2020):** SIBO por H₂: aumento ≥ 20 ppm em 90 min; IMO: CH₄ ≥ 10 ppm em qualquer momento; misto: H₂ + CH₄ ≥ 15 ppm em 90 min. Acurácia global baixa; CH₄ pouco disponível no Brasil.
+- **Cultura de aspirado jejunal/duodenal** (padrão-ouro): ≥ 10³ UFC/mL, predomínio de coliformes; invasiva, cara, risco de contaminação.
+- **Diferenciais:** SII (muita sobreposição), dispepsia funcional, intolerâncias a carboidratos/FODMAP, doença celíaca, DII, doença diverticular, insuficiência pancreática, colite microscópica, neoplasias, giardíase e outras parasitoses.
+
+**Acompanhamento:** em geral ambulatorial; internar para reabilitação nutricional em desnutrição grave ou distúrbio hidroeletrolítico importante. **Recorrência:** 12,6% em 3 meses, 27,5% em 6, 43,7% em 9, até 50% em 12 meses; fatores: idade avançada, apendicectomia, IBP crônico.
+
+**Tratamento**
+- Corrigir condição predisponente (controle glicêmico, reposição de tireoide, procinéticos selecionados, cirurgia de estenose/alça cega). Corrigir deficiências (B12, A, D, E, ferro, cálcio, magnésio).
+- Dieta: low-FODMAP alivia distensão/flatulência a curto prazo (fase restritiva ≤ 6 semanas); dieta elementar normaliza o teste com lactulose em ~80% em 14 dias, mas é pouco palatável; depois, refeições com intervalo ≥ 5 h (complexo motor migratório) e alimentação rica em fibras, polifenóis e insaturados.
+- **Antibióticos** (pilar; evidência de baixa qualidade): **rifaximina 550 mg VO 8/8 h por 7–14 dias** (1ª linha em muitas referências, não absorvível); metronidazol 250 mg 8/8 h, ciprofloxacino 500 mg 12/12 h (7–14 dias); outros: amoxicilina-clavulanato 875 mg 2×/dia, doxiciclina 100 mg 2×/dia, neomicina 500 mg 2×/dia, norfloxacino 400 mg/dia, tetraciclina 250 mg 4×/dia, SMX-TMP 160/800 mg 2×/dia. Terapia combinada de dois antimicrobianos pode ser considerada, sobretudo no IMO. Cautela: resistência, neuropatia pelo metronidazol, *C. difficile*.
+- Probióticos: papel controverso, sem cepa/dose definidas. **SIBO recorrente:** antibioticoterapia cíclica (geralmente rifaximina); esquema rotatório não superou o cíclico e aumenta efeitos adversos e resistência.

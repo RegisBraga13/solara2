@@ -1,0 +1,12 @@
+# Poliomielite
+
+**Definição:** doença aguda pelo poliovírus com paralisia flácida assimétrica (sobretudo membros inferiores), arreflexia no segmento afetado e sensibilidade preservada (paralisia infantil). Notificação compulsória imediata.
+
+**Formas clínicas:** assintomática (90%, só laboratório); abortiva (5%: cefaleia, febre, tosse, coriza, sintomas digestivos); meningite asséptica (1%); **paralítica (1–1,6%)**: déficit motor agudo (até 3 dias) com febre, assimetria, flacidez e arreflexia, sequela residual após 60 dias; pode haver paralisia grave e morte.
+
+**Diagnóstico (clínico-laboratorial):** diferenciar poliovírus selvagem de poliomielite associada à vacina (PAV). Detecção viral por soroneutralização ou RT-PCR; sequenciamento (VP1) diferencia selvagem de vacinal e define o sorotipo. **Fezes** até 60 dias do início (preferencialmente 14), supositório de glicerina se constipação; swab retal em óbito antes da coleta; coletar de contactantes se houver suspeita de reintrodução do selvagem ou caso por vírus derivado vacinal (não coletar de vacinados com VOP nos últimos 30 dias). Eletromiografia: neurônio motor inferior. Liquor (diferencial com Guillain-Barré e meningites): aumento de células e discreto aumento de proteínas. Anatomopatologia inespecífica (post mortem).
+**Critérios (MS 2022):** *suspeito:* < 15 anos com déficit motor flácido súbito; qualquer idade com déficit flácido súbito e viagem nos últimos 30 dias a país endêmico (ou contato de viajante suspeito). *Confirmado selvagem:* PFA com poliovírus selvagem nas fezes (ou em contactantes), independente de sequela. *PAV:* PFA com vírus vacinal nas fezes e sequela aos 60 dias — início 4–40 dias após VOP, ou por contato (PFA 4–85 dias após contato com vacinado em até 40 dias). *PVDV:* PFA com sequela aos 60 dias e vírus derivado vacinal. *Compatível:* PFA sem coleta adequada de fezes e com sequela aos 60 dias, óbito ou evolução desconhecida. *Descartado:* fezes adequadas (até 14 dias, volume e temperatura corretos) negativas.
+**Diferenciais:** Guillain-Barré, mielite transversa, meningoencefalite, outros enterovírus.
+
+**Tratamento:** não há específico; internação e suporte.
+**Prevenção:** vacinação — **VIP** (inativada) IM aos 2, 4 e 6 meses; **VOP** (atenuada) oral aos 15 meses e 4 anos. Precaução padrão, contato e gotículas nos suspeitos. Saneamento básico é a principal medida social; ampliar cobertura e campanhas; com suspeita de PFA por pólio, vacinar indiscriminadamente com VOP os < 5 anos da área.

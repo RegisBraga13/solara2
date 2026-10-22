@@ -1,0 +1,38 @@
+---
+conditions:
+  - "Clostridioides difficile"
+  - "Clostridium difficile"
+  - "Infecção por C. difficile"
+---
+# Colite Pseudomembranosa (infecção por *Clostridioides difficile*)
+
+> Resumo em palavras próprias do Whitebook (Medicina Interna > Gastroenterologia), sem fisiopatologia, autoria e referências. Confira detalhes e doses na fonte: https://whitebook.pebmed.com.br/conteudo/?id=488&categoryId=26&subcategoryId=79
+
+**Definição:** *C. difficile* é um bacilo Gram-positivo formador de esporos cujas toxinas causam doença que vai de diarreia leve a megacólon tóxico; patógeno nosocomial de grande importância.
+
+**Epidemiologia:** principal causa de diarreia associada a cuidados de saúde: dois terços das diarreias por antibiótico, mais da metade das colites por antibiótico e mais de 90% das colites pseudomembranosas hospitalares; casos comunitários vêm aumentando. Faz parte da microbiota de 1 a 3% da população e de mais de 20% dos adultos internados; recém-nascidos são portadores assintomáticos em mais de 50% nos primeiros 6 meses (doença rara em crianças). No Brasil, incidência hospitalar estimada de 9,2 por 10.000 pacientes-dia.
+
+**Quadro clínico**
+- Do assintomático (~50%) a casos graves, às vezes fatais (5 a 10%). Diarreia aquosa e hematoquezia com dor abdominal, náusea e anorexia; febre em até 15%; pode evoluir com megacólon tóxico (a diarreia pode ceder dando lugar a obstipação, com risco de sepse e perfuração).
+- Gravidade: albumina < 3 g/dL, leucocitose > 15.000, creatinina > 1,5 mg/dL, choque séptico, íleo, perfuração ou distensão. **Infecção grave:** leucocitose > 15.000 ou creatinina > 1,5 (ou > 1,5 vezes a basal). **Fulminante:** grave + choque, íleo ou megacólon (manejo multidisciplinar). **Recorrente:** nova diarreia até 8 semanas após o fim do tratamento.
+- Fatores de risco: antibióticos (frequentes: fluoroquinolonas, clindamicina, cefalosporinas, penicilinas, carbapenêmicos; ocasionais: macrolídeos, sulfametoxazol-trimetoprima; raros: aminoglicosídeos, tetraciclinas, metronidazol, vancomicina); antissecretores (IBP, P-CAB, anti-H2); colonização; comorbidades (hepatopatia crônica avançada, DII, doença renal crônica, diabetes); imunossupressão (AIDS, transplante, quimioterapia, desnutrição); idade > 65 anos; alteração da anatomia (cirurgia GI recente, gastrostomia, sonda nasoentérica, ileostomia, bolsa ileoanal); UTI e ventilação mecânica.
+- Raramente há disseminação hematogênica (abscessos viscerais e de partes moles, osteomielite, infecção de próteses e de ferida).
+
+**Diagnóstico**
+- Suspeitar em diarreia aguda ou subaguda com 3 ou mais evacuações líquidas por dia em pessoa com fatores de risco, após excluir laxantes, substâncias osmóticas e fármacos (metformina, sais de magnésio, imunossupressores).
+- Rotina: hemograma, ureia, creatinina, eletrólitos, albumina, gasometria se critérios de gravidade.
+- Específico: fezes líquidas ao laboratório em até 2 horas (ou 4 °C por até 72 h); usar algoritmo (GDH ou PCR para triagem, depois toxina A/B). Não testar assintomáticos nem repetir em 7 dias no mesmo episódio; não se faz teste de cura. GDH: sensível, alto VPN, mas não distingue cepas toxigênicas (positivo exige toxina A/B ou PCR). EIA para toxinas A/B: pouco sensível, específico, não usar isolado. NAAT (PCR): rápido, sensível e específico, mas mais caro e com risco de hiperdiagnóstico. Padrões-ouro (neutralização de citotoxicidade e cultura toxigênica) ficam restritos à pesquisa. Com megacólon ou íleo pode não haver diarreia: usar fezes do toque retal ou swab perianal (menos sensível). Resultados discordantes (GDH ou PCR positivos, toxina negativa) não devem atrasar o tratamento se a suspeita é alta.
+- Radiografia de abdome: no megacólon, preocupação crescente com cólon > 7 cm e ceco > 12 cm. Retossigmoidoscopia flexível com baixa insuflação é preferível à colonoscopia (risco de perfuração); biópsias ajudam em diferenciais (CMV, DII). Pseudomembranas não são específicas, e sua ausência não exclui; colite pseudomembranosa também pode ser causada por colite eosinofílica, isquêmica, medicamentosa (AINEs, quimioterápicos) e outras infecções (CMV, *E. coli* O157:H7, *Salmonella*, *Shigella*, *S. aureus*, *K. oxytoca*, amebíase, estrongiloidíase).
+
+**Diagnóstico diferencial:** diarreia osmótica (nutrição enteral, principal causa nosocomial), volvo de sigmoide, síndrome de Ogilvie, apendicite e colite segmentar da diverticulite, colite isquêmica, diarreias invasivas (*E. coli*, *K. oxytoca*, *Yersinia*, *Campylobacter*, *C. perfringens*, *Salmonella*, *Shigella*, *S. aureus*, *Chlamydia*, sífilis anorretal, tuberculose, CMV), DII, diarreia por AINE e doença celíaca.
+
+**Tratamento**
+- Remover fatores de risco sempre que possível. Baixo risco (jovens sem comorbidades) pode ser ambulatorial; considerar fortemente internar se colite grave, toxemia, megacólon, sepse, instabilidade, dor intensa, mais de 6 evacuações/dia ou leucócitos > 16.000. Suporte: volume e eletrólitos.
+- Preferência pela fidaxomicina (menor recidiva; indisponível no Brasil; Cochrane: cura sem recorrência em 1 mês 71% x 61% com vancomicina). Metronidazol oral não é mais recomendado (resistência e falha).
+- Esquemas: **episódio inicial leve/baixo risco:** fidaxomicina 200 mg 12/12 h ou vancomicina 125 mg 6/6 h por 10 dias. **Grave:** vancomicina 125 mg 6/6 h ou fidaxomicina 200 mg 12/12 h por 10 dias. **Fulminante:** vancomicina 500 mg VO/SNE 6/6 h por 10 dias; se íleo, acrescentar vancomicina retal (500 mg em 100 mL de SF 6/6 h) e metronidazol 500 mg EV 8/8 h; sem resposta, cirurgia ou transplante de microbiota fecal. **1ª recorrência:** vancomicina 125 mg 6/6 h por 10 dias (se usou metronidazol antes) ou vancomicina em desmame (125 mg 6/6 h por 10 a 14 dias; 12/12 h por 7 dias; 1 vez ao dia por 7 dias; a cada 2 a 3 dias por 2 a 8 semanas) ou fidaxomicina 200 mg 12/12 h por 10 dias (se usou vancomicina). **2ª recorrência:** desmame de vancomicina, fidaxomicina, ou vancomicina por 10 dias seguida de rifaximina 400 mg 8/8 h por 20 dias (menos indicado), ou transplante de microbiota fecal. **3 ou mais recorrências:** transplante de microbiota fecal.
+- Cirurgia (colectomia subtotal; ~1% dos casos): megacólon tóxico, perfuração, refratariedade, doença rapidamente progressiva com choque e falência de órgãos.
+- Se em antibiótico por outra doença, manter o tratamento para *C. difficile* por ao menos 7 dias após o término daquele.
+- Recorrência (≥ 20%; aumenta a cada episódio): transplante de microbiota fecal (colonoscopia, enema ou cápsulas) é a terapia de escolha, com cura de 70 a 80%; pode ser considerado em infecção fulminante refratária sem candidatura cirúrgica; avaliar eficácia em 1 semana e em 4 semanas e repetir se necessário. Há produtos comerciais (RBX2660/Rebyota; SER-109/Vowst), de custo elevado.
+- Em DII, não suspender automaticamente a imunossupressão (há via de mão dupla entre atividade da DII e infecção); sintomas por mais de 48 a 72 h de terapia adequada: considerar CMV (PCR no sangue; retossigmoidoscopia com biópsias e imuno-histoquímica).
+
+**Profilaxia:** uso racional de antibióticos, precaução de contato e higiene (isolar por pelo menos 48 h após o fim da diarreia). Probiótico não é indicado para prevenir o 1º episódio nem recorrência, mas pode reduzir diarreia associada a antibiótico. Alto risco de recorrência sem candidatura a transplante de microbiota: vancomicina oral para suprimir recaídas durante novo ciclo de antibiótico; bezlotoxumabe IV (indisponível no Brasil; risco de descompensar insuficiência cardíaca). Álcool não elimina o patógeno: lavar as mãos com água e sabão; precauções de contato também para exames; desinfetar equipamentos e mobiliário com hipoclorito de sódio a 1%.

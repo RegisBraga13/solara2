@@ -1,0 +1,23 @@
+# Pneumonia e SDRA por Coronavírus
+
+**Definição:** pneumonia viral por SARS-CoV-2 (covid-19) com risco de evoluir para SDRA (edema pulmonar inflamatório não cardiogênico, hipoxemia grave, PaO₂/FiO₂ ≤ 300).
+
+**Quadro clínico:** sintomas gripais e constitucionais (febre, fadiga, prostração, tosse seca; ± rinorreia, cefaleia, mialgia, diarreia); dispneia franca dias depois; SDRA em média **10–12 dias** após o início. Sinais de gravidade: FR > 24, taquicardia, cianose, batimento de asa de nariz, musculatura acessória, tiragem, roncos/estertores, hipoxemia refratária ao O₂.
+
+**Diagnóstico**
+- Exames: hemograma, função renal, eletrólitos, TGO/TGP, albumina, CK, LDH, D-dímero, troponina I, ferritina, coagulograma, gasometria, lactato, PCR, ECG, radiografia de tórax. Marcadores prognósticos: D-dímero ≥ 1 µg/mL, leucocitose > 10.000, linfopenia < 800, plaquetas < 100.000, LDH ≥ 250, creatinina ≥ 1,5, transaminases e troponina elevadas. Se não der para excluir edema cardiogênico: troponina (cautela), BNP/NT-proBNP e eco.
+- **Radiografia:** inicial e de seguimento, pouco específica (infiltrados bilaterais, multilobares, periféricos; na SDRA, consolidações difusas com broncogramas). **TC** é o exame de escolha (pico por volta do 10º dia): vidro fosco, espessamento vascular, *crazy paving*, consolidações periféricas e posteriores, multilobares, bilaterais; distribuição central, derrame e linfonodomegalia são pouco frequentes (sugerem outro diagnóstico ou coexistência).
+- **SDRA (Berlim 2012):** início agudo; infiltrados bilaterais não explicados por derrame, atelectasia ou nódulos; exclusão de IC/hipervolemia (relevante só com IC prévia); oxigenação com PEEP ≥ 5: **leve** PaO₂/FiO₂ 201–300, **moderada** 101–200, **grave** ≤ 100.
+- **Diferenciais:** influenza, pneumonia bacteriana (pode coexistir), edema cardiogênico, TEP (piora súbita da oxigenação na ventilação), DPOC e asma descompensados.
+
+**Internação:** todo caso com sinais de gravidade, preferencialmente em isolamento com pressão negativa.
+
+**Tratamento do crítico (3 pilares: suporte ventilatório, hemodinâmico, vigilância de infecção bacteriana)**
+- **Oxigênio:** iniciar se SpO₂ < 90–92%, alvo 93–96%, menor FiO₂ capaz de manter ≥ 93%.
+- **VNI:** dispneico e hipoxêmico (SpO₂ < 90% com cateter nasal a 6 L/min), em quarto individual (pressão negativa se possível), máscara bem vedada com HME e filtro HEPA no ramo expiratório; parâmetros baixos (EPAP até 10, delta de IPAP até 10, FiO₂ < 50%, alvo 90–96%); reavaliar em 30–60 min e intubar se não melhora.
+- **Cânula nasal de alto fluxo:** mesma indicação; equipe treinada e EPI de aerossol; fluxo inicial 40 L/min (titular mantendo FR < 25), FiO₂ inicial 60% (SpO₂ 90–96%); reavaliar em 30–60 min; se melhora após 24 h, reduzir 5 L/min a cada 6 h e suspender < 15 L/min. Máscara com reservatório 7–15 L/min (SpO₂ ≥ 90%) é outra opção. Se as condições de segurança não puderem ser reunidas, intubar.
+- **Ventilação mecânica protetora:** VCV ou PCV; **VC 4–6 mL/kg**; FR 20–35 (ETCO₂ 30–45 / PaCO₂ 35–50); **platô < 30 cmH₂O**; **driving pressure < 14**; PEEP inicial 10 e FiO₂ 60% (menor PEEP que mantenha SpO₂ alvo, FiO₂ < 60%; PEEP alta preconizada antes piorou por hiperinsuflação; na prática VC 6 mL/kg, PEEP 15 e SpO₂ 93–95%). **Prona** se PaO₂/FiO₂ < 150 com PEEP ajustada, mínimo 16 h. **ECMO venovenosa** se PaO₂/FiO₂ < 80 por ≥ 3 h ou < 100 por ≥ 6 h. Sem manobras de recrutamento de rotina.
+- **Desmame:** TRE com PSV 6–8 e PEEP ≤ 6 por 30–120 min (sem tubo T por aerossolização); critérios: FiO₂ < 40%, PaO₂ > 70–80 com PEEP < 8, pH > 7,34, disparo espontâneo, estabilidade, Glasgow > 8; falência: FR < 10 ou > 30, F/V > 100, SpO₂ < 90% com FiO₂ ≥ 0,4, PaO₂/FiO₂ < 200, FC > 120, agitação, coma, sem tosse, pH < 7,30, dispneia. Após sucesso, extubar com cateter nasal ≤ 5 L/min.
+- **Hemodinâmica:** PAM alvo > 60–65. Volume conservador (10–20 mL/kg se hipotenso), guiado por perfusão/lactato; preferir cristaloide balanceado; coloide: albumina (evitar sintéticos). Vasoativo: **noradrenalina** 1ª linha; refratário: + vasopressina; disfunção cardíaca com hipoperfusão: + dobutamina; choque refratário: hidrocortisona 200 mg/dia.
+- **Antibiótico:** não usar sem suspeita bacteriana; considerar empiricamente com foco bacteriano potencial (consolidação, leucocitose sem corticoide, secreção purulenta), com culturas antes e reavaliação diária (descalonar/suspender); atenção a PAV, ITU e infecção de cateter.
+- **Sem benefício em internados:** azitromicina, ivermectina, cloroquina/hidroxicloroquina, lopinavir/ritonavir, plasma convalescente. Corticoide e anticoagulação: ver o tema de Covid-19.

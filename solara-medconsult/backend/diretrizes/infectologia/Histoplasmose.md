@@ -1,0 +1,24 @@
+# Histoplasmose
+
+**Definição:** infecção, usualmente pulmonar, pelo fungo dimórfico *Histoplasma capsulatum*.
+
+**Quadro clínico:** **50–90%** são assintomáticos ou autolimitados (baixa carga inalada); adoecem os imunocomprometidos e/ou expostos a grande inóculo. Infecção latente com granulomas é reconhecida. Aguda: febre, fadiga, diarreia, tosse, dor subesternal pleurítica e dispneia **2–4 semanas** após a exposição (até 1 semana se inóculo grande). Imunossupressão grave: choque, insuficiência respiratória, hepática e/ou renal, coagulopatia.
+- **Síndromes:** pulmonar assintomática; pulmonar aguda (broncopneumonia); pulmonar aguda difusa; pulmonar crônica (infiltrados apicais fibróticos, cavitação); **disseminada progressiva** (úlceras ou massas polipoides do TGI da boca ao ânus, pancreatite, colecistite, pele — nódulos, pápulas, placas, úlceras, vesículas, pústulas, abscessos, dermatite generalizada, paniculite —, insuficiência adrenal, endocardite); broncolitíase; adenite mediastinal; granuloma mediastinal; mediastinite fibrosante; endobrônquica; nódulos pulmonares (1–4 cm); ocular (coriorretinite); **SNC** (meningite, lesões focais, vasculite, encefalite, infecção medular).
+- **Outras:** pericardite, artrite poliarticular simétrica ou séptica, tenossinovite, artralgia, eritema nodoso/multiforme, microangiopatia trombótica, síndrome hemofagocítica, hipercalcemia por ativação macrofágica, pleurite, peritonite, mastite, osteomielite, prostatite, epididimite, acometimento peniano/vaginal; associação relatada com sarcoidose.
+- **Exame:** hepatoesplenomegalia, lesões cutâneas e outros sinais conforme a síndrome.
+- **Gravidade:** doença disseminada, SNC. **Risco de disseminação:** imunossupressão (aids, corticoide prolongado; geralmente CD4 < 150/mm³), extremos de idade.
+
+**Diagnóstico:** clínico-laboratorial; confirmado pelo fungo em cultura (sangue, escarro, lesões de pele, aspirado de medula). Podem ser necessários punção lombar, lavado broncoalveolar, toracocentese, pericardiocentese, biópsia.
+- **Rotina:** hemograma, plaquetas, PCR/VHS, LDH, hepatograma; sorologia (fixação de complemento, imunodifusão, imunoensaio); **antígeno urinário**, sérico ou do lavado por imunoensaio; PCR; cultura para fungos (escarro, lavado, líquido pleural, sangue); radiografia de tórax; TC de crânio e punção lombar se sintomas neurológicos; biópsia seletiva (nódulo pulmonar, pele) com histopatologia e citologia; ecocardiografia.
+
+**Classificação (pulmonar):** *assintomática* (com evidência de doença recente ou ativa: imagem nova ou progressiva, antígeno urinário, fixação de complemento ≥ 1:32 ou em ascensão, ou banda H na imunodifusão); *aguda leve* (sintomas que não interferem nas atividades); *aguda moderada* (interferem; pode precisar de O₂ de baixo fluxo ou internação); *aguda grave* (insuficiência respiratória com O₂ em fluxos significativos, perda de peso/fadiga importantes, internação ± UTI).
+
+**Diferenciais:** tuberculose, pneumonias típica/atípica, legionelose, pneumonite aspirativa, pneumonia viral, aspergilose/aspergiloma, blastomicose, criptococose, coccidioidomicose, pneumocistose, cisto mediastinal, Pancoast, linfomas, carcinoide, sarcoidose, sífilis, meningoencefalites.
+
+**Acompanhamento:** internar se grave (infiltrado difuso, insuficiência respiratória) ou disseminada (≥ 2 sítios não contíguos). Alta com controle da infecção e sintomas, término da terapia endovenosa e garantia de tratamento oral fora do hospital.
+
+**Tratamento:** depende da gravidade e do estado imune: antifúngico e suporte.
+- **Sem tratamento de rotina** em assintomáticos ou leves; a pulmonar aguda é benigna e autolimitada (repouso e observação). Adenite mediastinal geralmente autolimitada; tratar se sintomas compressivos ou imunossupressão. Ressecção de massas mediastinais só em casos graves. Pericardite e síndrome reumatológica com eritema nodoso/polimorfo: **AINE**; pericardite > 1 mês: corticoide + itraconazol.
+- **Antifúngico** em casos moderados/graves, infiltrado difuso bilateral, imunossupressão, ou sintomas > 4 semanas. Escolha: **anfotericina B em formulação lipídica**; alternativas: anfotericina B desoxicolato e **itraconazol**; outros azóis: fluconazol, voriconazol, posaconazol, isavuconazol.
+- **Disseminada:** duas fases, **indução** (anfotericina lipídica por **2 semanas**; itraconazol nas formas leves a moderadas) e **manutenção**. Em HIV, a TARV pode começar cedo (após ou durante a indução), pois a síndrome de reconstituição imune é pouco frequente.
+- **Profilaxia primária:** PVHIV com **CD4 < 150/mm³** em áreas de alta endemicidade ou ocupação de risco. **Secundária:** em imunossupressão permanente ou recorrência; em PVHIV até CD4 > 150/mm³ com carga viral indetectável em TARV. (Guias de prescrição vazios; doses não constam no texto extraído.)

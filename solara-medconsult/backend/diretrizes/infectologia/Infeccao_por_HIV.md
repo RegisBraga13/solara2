@@ -1,0 +1,39 @@
+---
+conditions:
+  - "HIV"
+  - "Infecção pelo HIV"
+  - "Vírus da imunodeficiência humana"
+---
+# Infecção por HIV
+
+**Definição:** infecção precoce = primeiros 6 meses após o contato; infecção aguda = manifestações clínicas dessa fase (síndrome retroviral aguda, SRA).
+
+## Quadro clínico
+- **Aguda:** quadro gripal ou tipo mononucleose, inespecífico; maioria autolimitada (3–4 semanas), em ~50%; alguns assintomáticos. Febre alta, adinamia, adenopatia, fotofobia, fadiga, perda de peso, náuseas/vômitos, astenia, odinofagia, mialgia, artralgia, exantema maculopapular, úlceras mucocutâneas (oral, esofágica, genital), hepatoesplenomegalia, hiporexia, diarreia, cefaleia retro-orbitária que piora com o movimento ocular. Pode persistir por meses; também candidíase oral, neuropatia periférica, meningoencefalite asséptica, Guillain-Barré.
+- **Gravidade:** apresentação atípica (oportunistas, neurológicas), sintomas graves ou prolongados.
+- **Fatores de risco:** sexo desprotegido com infectado, múltiplas parcerias, sangue contaminado (drogas injetáveis, transfusão, acidente com material biológico), transmissão perinatal.
+- **Evolução:** fase assintomática (latência) de meses a anos, com sorologia positiva e CD4 estável ou em queda; depois fase sintomática inicial (candidíase oral, linfadenopatia generalizada, febre, astenia, diarreia, sudorese noturna, perda > 10%); **aids** = oportunistas e neoplasias definidoras, conforme o CD4: pneumocistose, neurotoxoplasmose, TB atípica/disseminada, meningite criptocócica, retinite por CMV; sarcoma de Kaposi, linfoma não Hodgkin, neoplasia intraepitelial anal e uterina; também miocardiopatia, nefropatia, encefalopatia e neuropatia periférica por dano direto.
+- **Exame:** linfonodomegalia (axilar, cervical, occipital), rash, perda de peso; hepatoesplenomegalia leve. **Rash** generalizado 48–72 h após a febre, por 5–8 dias, em tórax superior, pescoço e face (também couro cabeludo, extremidades, palmas e plantas); máculas/maculopápulas de 5–10 mm, bem delimitadas, pouco pruriginosas. Orofaringe edemaciada e hiperemiada, sem exsudato. **Úlceras mucocutâneas dolorosas** (base branca, halo eritematoso; boca, ânus, pênis, esôfago) são o sinal mais característico.
+
+## Diagnóstico
+- **ELISA:** 1ª geração (IgG) positiva em 6–8 semanas; 2ª (IgG) 25–35 dias; 3ª (IgG+IgM) 20–30 dias; **4ª (IgG, IgM e antígeno p24) 15–20 dias**. Etapa 2: western blot (IgG/IgM, 45–60 dias), imunoblot, imunoblot rápido. **RNA viral é o primeiro marcador (~10 dias)**; DNA pró-viral também. Considerar a janela diagnóstica.
+- **Rotina:** hemograma, função renal e eletrólitos, hepatograma; sorologias de HIV, hepatites virais, EBV, CMV, toxoplasmose, VDRL.
+- **APS:** teste rápido (sangue capilar digital); se positivo, segundo teste rápido de outro fabricante; **dois reagentes sequenciais (TR1 e TR2, antígenos diferentes) definem a infecção**; aconselhamento pré e pós-teste.
+- **Laboratório:** testes iniciais (imunoensaio de 3ª/4ª geração) e complementares (WB, IB, carga viral). ELISA negativo exclui (repetir se alta suspeita); ELISA positivo → western blot; WB positivo confirma → carga viral e CD4 (carga viral > 5.000 cópias/mL após dois TR reagentes ratifica e é o 1º exame de monitoramento); negativo/indeterminado → RNA viral. **Controladores de elite** têm viremia baixa/indetectável, mas anticorpos presentes (diagnóstico pelos testes complementares convencionais).
+**Diferenciais:** mononucleose, toxoplasmose, rubéola, sífilis, gonococcia disseminada, hepatites e outras viroses, LES, pitiríase rósea, gastroenterite, faringite.
+
+## Acompanhamento (APS)
+- Acolher e coordenar o cuidado; **notificação compulsória (semanal)**. Consultas quinzenais ou mensais no início; **retorno em 7 dias após iniciar TARV** (efeitos colaterais); boa adesão + carga indetectável + CD4 > 350 em duas aferições seguidas → consultas semestrais. Documentar o 1º anti-HIV, CD4/carga e TARVs prévios. Explorar reação emocional, saúde mental, rede de apoio, trabalho, saúde reprodutiva (filhos, parcerias, contracepção). Cuidado centrado na pessoa: explicar transmissão, história natural, CD4, carga viral e impacto da TARV; envolver o parceiro se concordar; **sigilo rigoroso** (agentes comunitários só com autorização); pode acompanhar fora da unidade de referência.
+- **Exames na 1ª consulta:** CD4, carga viral, **genotipagem** (gestantes, coinfecção TB, parceria em tratamento, crianças, soroconversão em PrEP), hemograma, creatinina, enzimas hepáticas/bilirrubinas, EAS, radiografia de tórax, PPD; sorologias: toxoplasmose IgG, anti-HCV, anti-HBs, anti-HBc total e IgM, HBsAg, anti-HAV, VDRL, rubéola, EBV, CMV; perfil lipídico, glicose, beta-HCG.
+- **Seguimento:** carga viral semestral (repetir 2–3 meses após início ou troca de TARV); CD4 < 350 a cada 6 meses, 350–500 a cada 12, dois > 500 não pedir; hemograma 6–12 meses; creatinina e EAS anuais; AST/ALT/FA/BT 3–12 meses; lipídios e glicemia anuais; prova tuberculínica anual se inicial negativa; VDRL semestral; anti-HCV e HBsAg/anti-HBc anuais ou conforme indicação.
+- **Tuberculose** (principal causa de morte infecciosa em PVHIV): perguntar sintomas (tosse, febre, emagrecimento, sudorese) em toda consulta; **LF-LAM urinário** se CD4 ≤ 200 com sintomas ou gravidade (reagente → tratar TB ativa). Investigar ILTB (PT anual se inicial negativa, após reconstituição imune; IGRA alternativa se CD4 > 350). Excluir TB ativa (clínica, escarro, radiografia) antes do **TPT**: indicado se PT > 5 mm ou IGRA positivo (CD4 > 350), contato de TB pulmonar/laríngea confirmada, cicatriz radiológica sem tratamento prévio; se CD4 < 350 sem TB ativa, TPT sem PT/IGRA. Esquemas: **3HP (isoniazida + rifapentina)**, preferencial pela comodidade, ou 4R.
+- **Risco cardiovascular (Framingham):** baixo → reavaliar a cada 2 anos; moderado (10–20%) → 6–12 meses; alto (≥ 20%) → em 1 mês e depois a cada 3 meses.
+- **Neoplasias:** mama (50–69 anos, mamografia bianual); colo uterino (citologia semestral no 1º ano, depois anual; colposcopia se alteração); canal anal (receptivo anal, HPV, histologia vulvar/cervical anormal: toque retal e citologia anal anuais; anuscopia se alteração); fígado (cirróticos e HBsAg+: alfafetoproteína e US semestrais).
+- **Imunizações:** revisar sempre; seguir esquemas específicos; **CD4 < 200 sem vacinas vivas atenuadas**, entre 200 e 350 avaliar caso a caso; CRIE para imunobiológicos especiais.
+- **Encaminhar a serviço especializado:** preferência do paciente, gestantes, < 14 anos, CD4 < 350, doença relacionada ao HIV, coinfecção HBV/HCV/TB, contraindicação a 1ª linha, falha de TARV/PrEP/PEP, ARV prévios, efeitos adversos difíceis, boa adesão com carga > 40 mil em duas dosagens após supressão prévia. **Genotipagem pré-tratamento:** gestantes, coinfecção TB-HIV nova, infecção por parceria em TARV, crianças e adolescentes.
+
+## Tratamento
+- Início precoce da TARV pesa risco × benefício. **Benefícios:** efeito em sintomas e carga viral, maior reconstituição imune, menor transmissão. **Riscos:** resistência, toxicidade. Idealmente testar resistência antes. Médicos de APS capacitados podem iniciar esquemas de 1ª linha com apoio de especialistas; reforçar adesão diária.
+
+## Prevenção e rastreamento
+- Promover preservativo e práticas seguras; aconselhar profissionais do sexo, múltiplas parcerias, usuários de drogas injetáveis. **Teste rápido:** adolescentes/jovens anual; gestantes na 1ª consulta do pré-natal, início do 3º trimestre e parto; HSH, trabalhadores do sexo, travestis e transexuais semestral; uso de álcool/drogas semestral; outras IST no diagnóstico e 4–6 semanas depois; hepatites ou TB no diagnóstico; privados de liberdade anual; violência sexual no atendimento, 4–6 semanas e 3 meses; PrEP a cada visita; PEP no atendimento, 4–6 semanas e 3 meses. Oferecer teste a quem pedir. **PEP** se exposição de risco nas últimas 72 h com teste negativo; **PrEP** (diária ou sob demanda) para risco aumentado.

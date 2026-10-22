@@ -1,0 +1,12 @@
+# Empiema Subdural
+
+**Definição:** abscesso focal do SNC localizado entre a dura-máter e a aracnoide.
+
+**Quadro clínico:** febre (em geral > 38 °C); cefaleia (focal no início, depois generalizada); história recente (< 2 semanas) de sinusite, otite média, mastoidite, meningite, cirurgia craniana ou de seios nasais, trauma ou infecção pulmonar; abscesso intracraniano prévio; confusão, sonolência, torpor ou coma; hemiparesia/hemiplegia; convulsão focal ou generalizada; meningismo; náusea/vômito; alterações visuais (ambliopia, hemianopsia homônima); paralisia dos nervos III, V ou VI; midríase; disartria ou afasia; papiledema e sinais de hipertensão intracraniana.
+
+**Diagnóstico:** hemograma, coagulograma, PCR, VHS, eletrólitos, ureia, creatinina, hepatograma, hemoculturas. **RM de crânio com gadolínio** é o exame de escolha (superior à TC); TC se RM impossível ou paciente grave. Ultrassom de crânio ajuda a diferenciar empiema de efusão subdural reativa em crianças com meningismo complexo. Úteis: TC de seios da face, cultura de secreções, exames pré-operatórios. **Punção lombar contraindicada** (risco de herniação) até excluir hipertensão intracraniana.
+**Diferenciais:** ADEM, AVE agudo, hematoma subdural agudo, tumores intracranianos benignos, síndromes do seio cavernoso, aneurisma, enxaqueca, crises convulsivas (febril, parcial complexa, tônico-clônica, neonatal benigna), meningite bacteriana, encefalite herpética, abscesso epidural, hemorragia intracraniana, carcinomatose leptomeníngea, pseudotumor cerebral, vertigem posicional, afasia.
+
+**Conduta:** **todos internados em UTI** para suporte, investigação e abordagem neurocirúrgica; alta com estabilidade clínica, hemodinâmica e laboratorial e antibiótico adequado.
+**Tratamento:** estabilização e suporte intensivo; **antibiótico empírico imediato por 4–6 semanas**; comunicar neurocirurgia (e ORL/cirurgia torácica se necessário); anticonvulsivante (tratamento ou profilaxia) e medidas para reduzir a pressão intracraniana. **Drenagem neurocirúrgica** (craniotomia inicialmente, com desbridamento) e envio de material para microbiologia; contraindicação cirúrgica ou alto risco de morte: só antibiótico.
+- **Esquema por origem:** sinusite paranasal, otite média/mastoidite ou foco pulmonar: metronidazol + cefalosporina de 3ª geração. Trauma ou pós-cirúrgico: vancomicina + metronidazol + cefalosporina de 3ª ou 4ª geração. Meningite infantil: vancomicina + cefalosporina de 3ª. Neonatos: ampicilina + cefalosporina de 3ª.

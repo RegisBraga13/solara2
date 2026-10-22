@@ -1,0 +1,5 @@
+pytest>=8.0
+httpx>=0.27
+ruff>=0.6
+pymupdf>=1.24  # só para scripts/converter_pdf_azulay.py
+pytest-cov>=5.0

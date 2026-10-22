@@ -1,0 +1,22 @@
+# Hiperbilirrubinemia Não Conjugada
+
+> Resumo em palavras próprias do Whitebook (Medicina Interna > Gastroenterologia), sem fisiopatologia, autoria e referências. Confira detalhes na fonte: https://whitebook.pebmed.com.br/conteudo/?id=772&categoryId=26&subcategoryId=79
+
+**Definição:** bilirrubina indireta > 0,8 mg/dL na maioria dos laboratórios (varia com o kit), predominando sobre a direta. Achado laboratorial que obriga a investigar a causa.
+
+**Quadro clínico:** icterícia (em geral só com bilirrubina > 2 mg/dL). Na hemólise ou diseritropoiese (megaloblástica, mielodisplasia): sintomas de anemia (dispneia aos esforços, taquicardia, pré-síncope, fadiga). Cirrose: investigar álcool, hepatites virais, síndrome metabólica, família; ascite, edema, encefalopatia, hemorragia digestiva; no Brasil, exposição a água de lagoas (esquistossomose hepatoesplênica). Doenças genéticas da conjugação: icterícia desde a infância, piora com infecção, desidratação, jejum prolongado. Perguntar sobre fármacos que competem pela albumina (AAS, rifampicina, probenecida, sulfonamidas).
+- Fatores de risco: anemia hemolítica congênita ou adquirida, diseritropoiese, hipoalbuminemia, Gilbert/Crigler-Najjar, os fármacos acima, cirrose, valvas metálicas, shunt portossistêmico (TIPS, esquistossomose).
+- Exame: icterícia (esclera e frênulo); esplenomegalia nas hemólises crônicas (exceto falciforme); palidez, taquicardia, hipotensão postural e taquipneia se anemia importante; cirrose com eritema palmar, ginecomastia, aranhas, atrofia testicular, circulação colateral, rarefação de pelos, ascite, unha de Terry, fígado reduzido e esplenomegalia.
+
+**Diagnóstico:** laboratorial (indireta > 0,8 mg/dL), dosar em todo ictérico. Avaliar sempre lesão hepatocelular, enzimas canaliculares, função hepática e hemólise/diseritropoiese. Na hemólise com função hepática normal, a indireta raramente passa de 5–6 mg/dL. Dosar B12 em veganos, usuários de metformina, gastrite atrófica autoimune, Crohn ileal ou SIBO.
+- Exames: hemograma com esfregaço, reticulócitos, creatinina, TGO, TGP, FA, GGT, albumina, TAP, bilirrubinas, LDH, haptoglobina, Coombs direto, B12, ácido fólico, EAS; US de abdome com Doppler se suspeita de cirrose/shunt.
+- Hemólise/diseritropoiese: queda de Hb, reticulocitose (hemolíticas), LDH alto, indireta alta, haptoglobina consumida; esfregaço com drepanócitos, microesferócitos, eliptócitos, policromatofilia; megaloblástica com neutrófilos plurissegmentados; mielodisplasia com hipossegmentados (pseudo-Pelger-Huet).
+- Hemólise medicamentosa: por hapteno (penicilina em dose alta); por imunocomplexos IgM com hemólise intravascular (quinidina, paracetamol, hidralazina, rifampicina, tetraciclina, isoniazida, hidroclorotiazida, insulinas); por autoanticorpos IgG com hemólise extravascular (alfametildopa, diclofenaco, interferona).
+- Cirrose: transaminases e canaliculares altas, hipoalbuminemia, TAP/RNI alargado; US com ecotextura heterogênea, contornos irregulares, atrofia do lobo direito e hipertrofia do esquerdo, nódulos, sinais de hipertensão portal.
+- Tudo normal → Gilbert ou Crigler-Najjar. **Gilbert:** benigna, defeito de conjugação com UDP-glicuroniltransferase ~30% do normal; surge na 2ª–3ª década, mais em homens; icterícia leve com estresse, jejum, febre ou exercício intenso; bilirrubina geralmente ≤ 3 mg/dL (até 6 em estresse); prova de jejum pode apoiar; UGT1A1 raramente necessário; biópsia desnecessária (lipofuscina centrolobular); maior risco de colelitíase. **Crigler-Najjar tipo 2:** autossômica recessiva, enzima ~10%, bilirrubina 6–20 mg/dL na vida adulta, resposta ao fenobarbital (redução de até 25%). **Tipo 1:** neonatal, ausência total da enzima, kernicterus, encefalopatia e morte; indicação de transplante hepático.
+
+**Diagnóstico diferencial:** anemias hemolíticas congênitas (falciforme, SC, esferocitose, eliptocitose), autoimune, microangiopática, mediada por complemento; diseritropoiese; hipoalbuminemia; fármacos que competem pela albumina; cirrose (indireta geralmente tardia); shunt portossistêmico; esclera amarelada normal em algumas pessoas (sobretudo negras); hipercarotenemia.
+
+**Acompanhamento:** conforme a causa.
+
+**Tratamento:** conforme a causa. Gilbert não exige medicação (evitar jejum prolongado). Crigler-Najjar tipo 2 raramente precisa; se necessário, indutores do CYP450 como fenobarbital. Evitar fármacos que competem pela albumina (penicilinas, sulfas, salicilatos).

@@ -1,0 +1,16 @@
+# Fibroelastose Endocárdica (FEE)
+
+**Definição:** espessamento difuso do endocárdio por excesso de colágeno e fibras elásticas, sobretudo no VE; reduz a complacência, limita o crescimento da cavidade e pode levar a disfunção sistólica e IC. Hoje vista como fenótipo fibroproliferativo do endocárdio. Rara, acomete lactentes e crianças; mais frequentemente **secundária** a cardiopatias congênitas obstrutivas/hipoplásicas do lado esquerdo (coração esquerdo hipoplásico, VE limítrofe, estenose aórtica fetal). **Primária** (incomum): síndrome de Barth, síndrome de Alström, variantes de NEXN, deficiência sistêmica de carnitina, lúpus neonatal por anticorpos maternos anti-Ro/SSA e anti-La/SSB.
+
+**Quadro clínico:** varia com a idade, extensão e cardiopatia associada. Lactentes: sinais de IC (dificuldade alimentar, taquipneia, sudorese nas mamadas, baixo ganho de peso, irritabilidade, fadiga). Crianças maiores: dispneia aos esforços, intolerância ao exercício, dor torácica, arritmias, IC progressiva. Pode afetar a valva mitral (cúspides espessadas, papilares encurtados, insuficiência mitral funcional) e, avançada, formar trombos murais no VE.
+- Exame típico: IC esquerda após infecção respiratória recente; choque cardiogênico, pulso irregular, galope, sopro pansistólico de regurgitação AV, crepitações, jugulares, hepatoesplenomegalia, edema; menos comum taquicardia sinusal e pulso alternans.
+
+**Diagnóstico:** **eco** é o exame principal; laboratório, RX, TC e RM conforme necessidade; RM com gadolínio mostra alterações das cavidades e padrão fibrótico; biópsia endomiocárdica raramente necessária (padrão de referência anatomopatológico).
+- **Achados:** VE de tamanho normal, dilatado ou reduzido; FEVE normal ou reduzida; disfunção diastólica. Eco: ecogenicidade e espessamento difuso do endocárdio do VE, papilares deslocados para cima em direção ao AE, espessamento da valva mitral. RM: espessamento difuso, realce tardio subendocárdico difuso. Biópsia: hiperplasia endocárdica com colágeno e fibras elásticas, bordas livres das cúspides mitrais espessadas.
+
+**Diagnóstico diferencial:** cardiomiopatias dilatada, hipertrófica (Noonan) ou restritiva (Barth); estenose aórtica, coarctação, ALCAPA, coração esquerdo hipoplásico; miocardite viral (caxumba, coxsackie, adenovírus); doenças de depósito lisossômico (Pompe, Hurler, Niemann-Pick).
+
+**Acompanhamento:** individualizado (doença de base, função, complicações). Lúpus neonatal: pesquisar anti-Ro/SSA e anti-La/SSB maternos. Prognóstico depende de etiologia, disfunção, fisiologia restritiva, cardiopatia associada e resposta; após ressecção cirúrgica pode haver recorrência: eco de longo prazo.
+
+**Tratamento:** sem tratamento que reverta FEE estabelecida; tratar IC (ver IC crônica) e a doença de base; anticoagulação se tromboembolismo. **Corticoide** pode regredir a FEE associada a anticorpos maternos anti-Ro/La, mas não é recomendado em soronegativos. Cardiopatia congênita: corrigir a lesão obstrutiva; em selecionados (reabilitação do VE limítrofe), ressecção cirúrgica da fibroelastose associada à correção da cardiopatia.
+- Em estudo: inibidores de TGF-β, CAR-T, terapia com mRNA em nanopartículas lipídicas, vesículas extracelulares/celulares; atorvastatina reduziu a EndMT e a deposição de colágeno em modelo experimental (sem estudos clínicos que justifiquem uso rotineiro).

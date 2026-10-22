@@ -1,0 +1,13 @@
+# Vasculite Crioglobulinêmica
+
+## Apresentação clínica
+Vasculite sistêmica de pequenos e médios vasos associada a crioglobulinas circulantes. Pode acometer pele, articulações, rins e nervos periféricos. Na forma mista, é típica a tríade de púrpura, artralgia e fraqueza. Púrpura palpável em membros inferiores é muito frequente; também podem ocorrer Raynaud, artralgia/artrite não erosiva, glomerulonefrite, neuropatia, úlceras e sintomas constitucionais. A forma tipo I tende a causar fenômenos oclusivos, como livedo, isquemia digital e necrose. Gravidade inclui acometimento renal ou neurológico importante, isquemia, trato gastrointestinal ou pulmões.
+
+## Diagnóstico
+Confirmar crioglobulinas séricas com coleta e processamento adequados, correlacionando com quadro clínico; criócrito acima de 1% e C4 baixo apoiam o diagnóstico. Solicitar hemograma, inflamatórios, função renal/hepática, urina e proteinúria, complemento, fator reumatoide, eletroforese/imunofixação e sorologias para HCV, HBV, HIV e sífilis. Pesquisar causas associadas, sobretudo HCV, Sjögren e doença linfoproliferativa; complementar autoanticorpos conforme hipótese. Considerar biópsia do órgão acometido, eletroneuromiografia e imagem conforme manifestações. Diferenciais incluem vasculites ANCA, lúpus, vasculite por IgA, causas infecciosas e glomerulonefrites.
+
+## Tratamento
+Tratar a doença desencadeante conforme recomendações atuais. Orientar proteção contra o frio, analgesia e cuidado de feridas; dor neuropática pode exigir fármacos específicos. Em doença leve/moderada, tratar HCV quando presente; nos demais casos, a fonte descreve corticoide em baixa dose para sintomas e hidroxicloroquina até 5 mg/kg/dia se houver artrite. Em doença grave, a fonte indica rituximabe associado a glicocorticoide em dose imunossupressora ou pulsoterapia; ciclofosfamida é alternativa se rituximabe não estiver disponível. Em doença relacionada ao HCV, organizar a sequência da imunoterapia e antiviral com especialista; em HBV/HIV, iniciar antiviral antes ou junto da imunossupressão. Quadros com risco de morte podem requerer plasmaférese, pulsoterapia e rituximabe ou ciclofosfamida. Considerar profilaxia para pneumocistose e imunizações. Criócrito alto e C4 consumido podem elevar o risco de reação/agravamento com rituximabe; requer vigilância especializada e pode demandar plasmaférese.
+
+## Acompanhamento
+Em geral ambulatorial. Internar em glomerulonefrite grave, comprometimento neurológico incapacitante, isquemia ameaçando membro ou outras manifestações ameaçadoras à vida. Monitorar função renal, proteinúria, atividade sistêmica, recidivas e doença de base.

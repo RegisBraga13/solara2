@@ -1,0 +1,17 @@
+# Infecção Odontogênica
+
+**Definição:** principalmente doença periodontal (gengivite e periodontite) e cárie dentária, com possíveis repercussões locais e sistêmicas. Sinônimos: infecção dentária, cárie, gengivite, periodontite, pulpite, angina de Ludwig.
+
+**Quadro clínico:** origem nas estruturas dentoalveolares, tecido periodontal ou pericoronal.
+- **Dentoalveolares:** *cárie* — na coroa ou raiz; começa com pontos/fissuras que escurecem pela desmineralização do esmalte e da dentina; a maioria das cáries coronais evolui devagar e assintomática; as de progressão rápida doem por acometimento da pulpa; as radiculares ocorrem na junção coroa-raiz. *Pulpite e abscesso periapical* — a partir de defeito no esmalte/dentina (extensão da cárie, fratura, procedimento dentário, forame apical, canais laterais ou via hematogênica); a inflamação aguda eleva a pressão no espaço rígido, causa isquemia e necrose; pus pode causar periodontite periapical aguda ou abscesso periapical/alveolar, perda óssea e periodontal, e se espalhar para outros dentes; dor local intensa, pior com mudanças térmicas.
+- **Periodontais:** *gengivite* — edema, gengiva arroxeada, sangramento ao comer/escovar, em geral sem dor, halitose; cálculo subgengival; gengivite necrosante ulcerativa aguda (angina de Vincent) é rara. *Periodontite crônica* — inflamação gengival com perda de tecido de suporte (osso alveolar) e do ligamento periodontal, evolução lenta (anos de gengivite crônica), placa e cálculo abundantes, pus nas bolsas; em jovens, perda óssea vertical rápida, geralmente em molares, com pouca placa. *Abscesso periodontal* — focal ou difuso, gengiva hiperemiada, flutuante, edemaciada, amolecida, com drenagem purulenta pela bolsa. *Pericoronite* — infecção localizada por restos alimentares e microrganismos (crianças em formação da dentição permanente, adolescentes e adultos): dor, limitação da abertura da mandíbula, dificuldade para mastigar, edema facial, tecidos pericoronais hiperemiados com exsudato à pressão, trismo e linfadenopatia dolorosa.
+- **Complicações:** febre de origem indeterminada; infecção de espaços orofaciais (masseter, pterigoide, temporal, bucal, canino, infratemporal, submentoniano, submandibular, faríngeo lateral, retrofaríngeo, pré-traqueal); osteomielite da mandíbula; bacteremia; endocardite; mediastinite; prematuridade; maior risco cardiovascular e cerebrovascular.
+
+**Diagnóstico:** feito pelo dentista (preferencialmente especialista), com coleta de material para cultura e/ou detecção molecular, sobretudo na osteomielite. Radiografia complementa e orienta a drenagem.
+
+**Acompanhamento:** sem complicações, ambulatorial na clínica odontológica. Internar se precisar de medicação EV e/ou cirurgia específica.
+
+**Tratamento**
+- *Cárie:* restauração + prevenção. *Pulpite irreversível:* controverso uso de endodontia, desinfecção fotoativada e antibióticos sistêmicos. *Gengivite aguda:* maioria responde a **clorexidina 0,12%** tópica; antimicrobiano sistêmico só em casos graves ou em HIV. *Periodontite:* antibiótico sistêmico + desbridamento mecânico. *Supurativas:* **drenagem cirúrgica** + antibiótico sistêmico.
+- **Duração do antibiótico** geralmente **7–14 dias**, até resolver a inflamação local; osteomielite **≥ 6 semanas**.
+- **Profilaxia antimicrobiana preemptiva** em pacientes selecionados para prevenir endocardite bacteriana e infecção de prótese articular. (Guias vazios; fármacos e doses não constam no texto extraído.)

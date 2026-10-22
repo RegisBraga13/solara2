@@ -1,0 +1,19 @@
+# Coccidioidomicose
+
+**Definição:** infecção pelo fungo dimórfico *Coccidioides* (*C. immitis*, *C. posadasii*), de pneumonia aguda autolimitada (febre do vale, *Valley Fever*) a formas disseminadas e meningite, sobretudo em imunossuprimidos.
+
+**Quadro clínico:** assintomática em **60–65%**. A mais comum é a pneumonia comunitária autolimitada (semanas a meses). Pneumonia progressiva e disseminação hematogênica são graves.
+- **Primária (7–21 dias após a exposição):** quadro gripal ou pneumonia com febre, tosse, cefaleia, fadiga, dor pleurítica, às vezes sudorese noturna, emagrecimento e cavitações; artralgia, **eritema nodoso**, eritema multiforme. A maioria dos imunocompetentes com doença leve dispensa antifúngico.
+- **Lesões após semanas a meses:** cutâneas, subcutâneas, osteoarticulares (artrite, osteomielite), vertebrais; menos comuns adenopatia supraclavicular, abscesso retrofaríngeo, prostatite. Geralmente exigem tratamento, exceto lesão única de pele em crianças. **Disseminação hematogênica** (semanas a meses, às vezes após 1–2 anos): meningite é a principal manifestação neurológica; tratamento inicial com fluconazol em altas doses.
+- **Pulmonar crônica:** *sequelar* (regressiva; cura em 1–2 meses mesmo sem antifúngico; nódulos isolados e cavidades finas podem regredir em até 2 anos; cavitações podem ser colonizadas por *Aspergillus* → bola fúngica ou invasão pleural); *progressiva* (pneumonia > 2 meses, infiltrados extensos ± cavitações, sintomas persistentes e progressivos).
+- **Gravidade:** perda de peso > 10%, sudorese noturna > 3 semanas, infiltrado em mais da metade de um pulmão ou em ambos, adenopatia hilar proeminente ou persistente, sintomas > 2 meses, disseminação linfo-hematogênica, SNC.
+- **Risco:** residir/visitar áreas áridas (sobretudo após chuvas, solo e poeira); diabetes; linfoma; gravidez e pós-parto imediato; doença cardiopulmonar prévia; idade avançada; timectomia; imunossupressão (HIV com CD4 < 200); maior risco de forma grave em indivíduos de origem africana ou filipina.
+
+**Diagnóstico:** considerar com exposição endêmica e doença respiratória baixa > 1 semana, sobretudo com artralgia simétrica difusa e rash (eritema nodoso/multiforme). Rotina inespecífica: VHS geralmente alterado; leucograma normal ou levemente elevado; **eosinofilia > 5%** em ~1/4. Rx inicial pouco informativo (infiltrado unilateral e adenopatia hilar ipsilateral, derrame parapneumônico); **4–8%** têm cavitações periféricas finas ou nódulos; empiema raro. *Coccidioides* não é flora normal: sua identificação em secreção/espécime indica infecção.
+- **Exames:** sorologia (ELISA IgM/IgG, imunodifusão, fixação de complemento); microscopia do escarro com KOH ou calcofluor; cultura; testes rápidos de látex ou PCR em sangue, urina, liquor; teste cutâneo com esferulina/coccidioidina (infecção latente; pouco rotineiro); Rx/TC de tórax complementares.
+
+**Diferenciais:** SARA, CMV, pneumonia intersticial linfocítica, micoplasma, pneumonias viral e bacteriana, pneumonia eosinofílica, bronquiectasias, histiocitose, linfangioleiomiomatose, metástases, babesiose, blastomicose, histoplasmose, abscesso pulmonar, paracoccidioidomicose, pneumocistose, pericardite, cisto hidático, trauma, pneumatocele, sarcoidose, linfoma, TEP, nódulo solitário, legionelose, TB, MAC, artropatias enteropáticas, granulomatose de Wegener, nódulo reumatoide, infarto pulmonar.
+
+**Acompanhamento:** internar em pneumonia progressiva ou sinais de disseminação; alta com estabilidade e possibilidade de via oral.
+
+**Tratamento:** não gestantes — **fluconazol ou itraconazol**; **anfotericina B lipossomal** reservada a pneumonia mais grave; após estabilização, converter para azol oral. **Gestantes:** anfotericina B no 1º trimestre, depois fluconazol no 2º e 3º; **cetoconazol não recomendado**. (Guias vazios; doses não constam no texto extraído.)

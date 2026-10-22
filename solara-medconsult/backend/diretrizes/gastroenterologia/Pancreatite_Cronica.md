@@ -1,0 +1,31 @@
+# Pancreatite Crônica
+
+> Resumo em palavras próprias do Whitebook (Medicina Interna > Gastroenterologia), sem fisiopatologia, autoria e referências. Confira detalhes e doses na fonte: https://whitebook.pebmed.com.br/conteudo/?id=48690&categoryId=26&subcategoryId=79
+
+**Definição:** fibrose progressiva do parênquima pancreático, deflagrada por inflamação recorrente, levando a insuficiência exócrina e endócrina.
+
+**Epidemiologia:** incidência 5–12/100.000 pessoas-ano; prevalência 50/100.000, crescentes; homens (1,5–3:1); idade média ao diagnóstico 35–45 anos; sobrevida média 20 anos. ~10% evoluem após uma pancreatite aguda e ~30% após quadros recorrentes.
+
+**Quadro clínico:** dor epigástrica/andar superior irradiada ao dorso, pós-prandial, aliviada na posição genupeitoral; períodos de acalmia de meses a anos, crises quase sempre por álcool ou gordura. Emagrecimento (evitação alimentar); má-absorção (diarreia, flatulência, restos alimentares, esteatorreia, que indica lipase < 10% do basal; perguntar sobre gordura sobrenadante, fezes brilhantes, volumosas, rançosas); DM3c com hipoglucagonemia e hiperglicemia (controle lábil).
+- Menos comuns: icterícia fugaz (¼; compressão do colédoco por edema, cálculo, pseudocisto, nódulo); HDA por varizes de fundo gástrico (GOV2) da hipertensão portal segmentar; ascite por ruptura de ducto ou pseudocisto; nefrolitíase, colecistolitíase, úlcera péptica, osteoporose.
+- Pseudocistos em 1/3 (70% resolvem sozinhos); complicações: compressão (estômago, colédoco, vesícula, cólon), infecção/abscesso, sangramento, fístula. PAI pode mimetizar neoplasia (pseudotumor).
+
+**Diagnóstico:** entrevista, fatores de risco e alteração radiológica do parênquima, sem exigir insuficiência exócrina franca.
+- Amilase/lipase têm baixa sensibilidade; elevadas sugerem agudização ou complicação.
+- **Elastase fecal 1:** positiva < 200 µg/g (fezes sólidas/semissólidas); baixa sensibilidade na IPE leve a moderada; falso-positivo em diabetes, SII, insuficiência renal, DII, diarreia aquosa; < 100 µg/g é mais específico de IPE grave.
+- **Gordura fecal** 24/72 h: esteatorreia se > 7 g/dia com dieta hiperlipídica; inespecífica; avalia resposta à reposição. Diferencial de esteatorreia: IPE, SIBO, má-absorção de ácidos biliares, giardíase/parasitoses, intestino curto/ressecção ileal/bariátrica, orlistate, neoplasia pancreática, colestase obstrutiva.
+- US: sensibilidade baixa (atrofia, heterogeneidade, calcificações, irregularidade/dilatação ductal; cistos, dilatação biliar, derrames). Radiografia: calcificações em topografia de L1–L2 têm especificidade 90% e sensibilidade ≤ 40%.
+- **TC e RM/colangio-RM:** 1ª linha se alta suspeita. TC: disponível, barata, rápida e sensível a calcificações; RM: sem radiação, mais sensível a alterações parenquimatosas (hipossinal T1) e ductais precoces, segura na alergia a contraste iodado, pode usar secretina. Achados: aumento ou atrofia, dilatação do Wirsung, envolvimento biliar, calcificações, pseudocistos, pseudoaneurismas, espessamento fascial, obstrução digestiva.
+- CPRE: hoje mais terapêutica. Ecoendoscopia: após falha de outros métodos; permite biópsia.
+- Laboratório: triglicérides, cálcio corrigido, PTH, IgG4 (testes genéticos se idiopática, < 35 anos ou história familiar); hemograma (anemia, leucopenia, plaquetopenia por hiperesplenismo); hepatograma, bilirrubinas, coagulograma; glicemia, TOTG, HbA1c, EAS, relação albumina/creatinina urinária, fundoscopia (polipeptídeo pancreático pós-prandial baixo no DM pancreatogênico); vitaminas A, 25-OH-D, E, RNI (K), B12, tiamina, folato; zinco, magnésio.
+
+**Diagnóstico diferencial:** carcinoma ampular, colangite, colelitíase, disfunção do esfíncter de Oddi, úlcera péptica, dispepsia funcional, celíaca, Crohn, isquemia mesentérica, SII, neoplasias pancreáticas (adenocarcinoma, IPMN, cística mucinosa, neuroendócrino), pancreatite aguda.
+
+**Complicações:** adenocarcinoma (risco de 4–5% ao longo da vida, maior em tabagistas); agudizações; dor crônica; desnutrição, sarcopenia, doença óssea e fraturas; desconexão ductal, fístulas, ascite, derrame pleural; pseudocisto (infecção, ruptura, fístula, compressão); obstrução duodenal e biliar; pseudoaneurisma, trombose esplênica com GOV2; **DM3c** em até 40% (rastreio anual; diagnóstico recente com síndrome consumptiva alerta para adenocarcinoma; risco de hipoglicemia por falta de glucagon).
+
+**Tratamento**
+- Check-list: cessar álcool e tabaco; rastrear osteopenia/osteoporose (densitometria, FRAX Brasil); atividade física, cálcio e vitamina D; com reposição enzimática não restringir gordura, salvo esteatorreia persistente.
+- **Reposição enzimática:** IPE com má-absorção, mesmo sem esteatorreia franca; não serve mais para dor. 25–50 mil UI de lipase nas 3 principais refeições, proporcional à gordura, máximo 75 mil UI/refeição. Sem resposta: checar adesão, SIBO, parasitoses; IBP pode otimizar. Metas: 25–30 kcal/kg/dia (30–35% de gordura), proteína 1,2–1,5 g/kg/dia; evitar excesso de fibras; TCM na má-absorção grave; triagem anual de micronutrientes, repor A, D, E, K.
+- **Dor:** escalonar (dipirona/paracetamol → codeína → morfina); cuidado com hipoglicemia por pregabalina e tramadol; dor nociplástica: tricíclicos e gabapentinoides; antioxidantes (selênio, vitamina C, betacaroteno, alfatocoferol, metionina) com benefício modesto. Refratária: CPRE se estenose dominante do Wirsung com dilatação a montante ≥ 6 mm (esfincterotomia, dilatação, stent 8,5–10 Fr) e litotripsia extracorpórea para cálculos radiopacos ≥ 5 mm; cirurgia descompressiva como último recurso (melhores resultados a longo prazo, sobretudo nos primeiros 3 anos); bloqueio do plexo celíaco só se inapto à cirurgia (efeito transitório); pancreatectomia total com autotransplante de ilhotas na dor intensa refratária a tudo.
+- **Pseudocistos:** assintomáticos só observar (risco de complicação < 10%); sintomáticos (compressão, infecção, sangramento, fístula pancreaticopleural): drenagem ecoendoscópica (preferida) ou percutânea, se não houver comunicação com o ducto e houver janela segura.
+- **Glicemia:** hipoglicemiantes orais se HbA1c < 8% (metformina é a mais estudada). Evitar incretinas (pancreatite), sulfonilureias/glinidas (hipoglicemia) e iSGLT2 (cetoacidose euglicêmica). Insulina em baixas doses com cautela; glucagon em casa.

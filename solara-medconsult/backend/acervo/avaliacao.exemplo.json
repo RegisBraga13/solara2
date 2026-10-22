@@ -1,0 +1,6 @@
+[
+  {
+    "pergunta": "(escreva uma pergunta clínica real, sem dados de paciente)",
+    "esperados": ["(título exato do documento do acervo que a responde)"]
+  }
+]

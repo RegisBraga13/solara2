@@ -1,0 +1,47 @@
+---
+conditions:
+  - "Tuberculose"
+  - "TB"
+  - "Tuberculose pulmonar"
+  - "TB ativa"
+---
+# Tuberculose Ativa (Primária/Reativação)
+
+**Definição:** doença causada por bactérias do complexo *Mycobacterium tuberculosis*, que pode acometer vários órgãos; a forma pulmonar é a mais frequente e a principal na cadeia de transmissão.
+
+**Quadro clínico**
+- **Sintomático respiratório:** tosse por **≥ 3 semanas** na busca ativa programática; **≥ 2 semanas** em quem procura o serviço de saúde e em diabéticos; **tosse de qualquer duração** em contatos de TB pulmonar, PVHA, privados de liberdade, pessoas em situação de rua, albergues/comunidades terapêuticas/ILPI, indígenas e profissionais de saúde.
+- **Pulmonar:** tosse > 15 dias (seca ou produtiva), febre vespertina, sudorese noturna, emagrecimento. Primária mais comum em crianças (insidiosa); reativação em qualquer idade, mais em adolescentes e adultos jovens. **Miliar:** forma grave, múltiplos focos granulomatosos, mais aguda, mais comum em HIV+.
+- **Extrapulmonar** (mais comum, mas não exclusiva, na imunossupressão grave; diagnóstico por cultura e biópsia): *pleural* (a mais comum em HIV−; dor pleurítica, astenia, perda de peso, febre, tosse seca); *ganglionar* (HIV+ e crianças; aumento subagudo, indolor, assimétrico de cadeias cervicais e supraclaviculares, flutuação/fístula); *meningoencefálica* (subaguda/crônica; cefaleia holocraniana, irritabilidade, alteração de comportamento, sonolência, vômitos, febre, fotofobia, rigidez de nuca, déficits focais ou HIC); *pericárdica* (subaguda; dor torácica, tosse seca, dispneia, febre, edema de MMII, congestão hepática, ascite); *óssea* (coluna – **mal de Pott**, tóraco-lombar –, quadril, joelho; dor lombar, sudorese noturna).
+- **Risco:** exposição recente, infecção/doença prévia, PVHA, drogas, instituições com aglomeração, profissionais de saúde, indígenas, privados de liberdade, situação de rua, diabetes, corticoterapia prolongada/imunossupressores, DRC, neoplasia, desnutrição, silicose.
+- **Exame físico:** muitas vezes inexpressivo; derrame pleural reduz murmúrio e frêmito; pode haver pectoriloquia e consolidação.
+
+**Diagnóstico**
+- **Investigar TB pulmonar quando:** tosse > 2–3 semanas + febre, sudorese, perda de peso e/ou hemoptise; fator de risco + sintomas persistentes > 2–3 semanas; HIV com tosse e febre, emagrecimento ou sudorese inexplicados; fator de risco + pneumonia comunitária sem melhora em 7 dias; fator de risco + achado radiográfico incidental compatível.
+- **Rotina:** radiografia de tórax em todo suspeito; **2 amostras de escarro** (intervalo de 8–24 h, uma ao acordar) para **BAAR, teste molecular e cultura**. **TRM-TB (GeneXpert) / NAT** em uma amostra, prioritário para TB pulmonar e laríngea (escarro, escarro induzido, LBA, lavado gástrico), também em LCR, linfonodos, tecidos, líquido sinovial, peritoneal, pericárdico, pleural e urina. Há também LPA (Line Probe Assay).
+- **Indicações do TRM-TB:** novos casos pulmonares/laríngeos (adultos, adolescentes, crianças, PVHA e populações vulneráveis); TB extrapulmonar em materiais validados; triagem de resistência à rifampicina em retratamento e em suspeita de falha.
+- BAAR positivo pode ser outra micobactéria: confirmar com cultura (espécie e sensibilidade), mas com forte suspeita e BAAR+ iniciar tratamento empírico.
+- **BAAR × NAT no escarro:** +/+ = diagnóstico estabelecido, tratar enquanto aguarda cultura; −/+ = repetir NAT se suspeita baixa, ≥ 2 NAT positivos presumem diagnóstico; +/− = nova amostra, se persistir presume outra micobactéria (tratar ou não conforme julgamento clínico); −/− = não exclui totalmente, decisão clínica.
+- **Radiografia:** lesões em campos superiores e dorsais, sobretudo à direita ou bilateral: opacidades, infiltrados, nódulos, cavidades, fibrose, retração, calcificação, linfonodomegalia ou padrão miliar. Pode ser normal em PVHA com **CD4 < 200**. US, TC e RM auxiliam.
+- **Broncoscopia (LBA/biópsia):** falha em obter escarro adequado; escarro negativo com forte suspeita; necessidade de excluir diferenciais; urgência.
+- **Biópsia:** granuloma com necrose caseosa. **ADA elevada** em líquido pleural, pericárdico, sinovial, ascítico e líquor (com outras evidências) sugere TB extrapulmonar, sobretudo pleural. Solicitar teste para HIV.
+
+**Diferenciais:** outras micobacterioses, bacterianas e fúngicas, sarcoidose, abscesso pulmonar, embolia séptica, câncer de pulmão, linfomas, sarcoma de Kaposi, carcinomatose metastática.
+
+**Acompanhamento**
+- **Internar:** forma meningoencefálica; intolerância medicamentosa incontrolável; estado geral que impeça tratamento ambulatorial; intercorrências; vulnerabilidade social (sem residência fixa, risco de abandono). Alta assim que resolvidos os motivos.
+- **Monitorar:** BAAR de escarro mensal (se positivo no fim do 2º mês ou nova positivação, pedir cultura com teste de sensibilidade); avaliação clínico-laboratorial mensal; peso mensal; Rx de tórax no diagnóstico, início do 3º mês e fim do tratamento.
+- **Complicações:** hemoptise volumosa, pneumotórax, bronquiectasias, destruição pulmonar extensa, maior risco de câncer de pulmão, TEV, aspergilose pulmonar crônica.
+
+**Tratamento:** antes de iniciar, pedir hemograma, função renal e eletrólitos, função hepática, ácido úrico, sorologias de hepatites B e C e HIV, e avaliação oftalmológica se etambutol. Fármacos: **rifampicina, isoniazida, etambutol, pirazinamida**.
+- **Efeitos adversos:** náuseas/vômitos/dor abdominal → sintomáticos e tomar 2 h após o café; **hepatotoxicidade** → suspender, reintroduzir gradualmente após resolução ou trocar o esquema; urina avermelhada → inofensivo, manter; nefrite intersticial → suspender rifampicina, esquema especial; rabdomiólise/IR → suspender pirazinamida, esquema especial; prurido/exantema leve → anti-histamínico; exantema moderado/grave → suspender e reintroduzir gradualmente; artralgia → analgésico/AINE; **neuropatia periférica → piridoxina 50 mg/dia** (profilaxia em desnutrição, diabetes, HIV, doença renal, alcoolismo, gestação); neurite óptica → suspender etambutol; hiperuricemia → dieta hipopurínica, alopurinol/colchicina; cefaleia, ansiedade, euforia, insônia → orientar; psicose, convulsão, encefalopatia, coma → suspender isoniazida; trombocitopenia, leucopenia, eosinofilia, anemia hemolítica, agranulocitose, vasculite → suspender rifampicina.
+
+**Atenção primária:** adesão é essencial para a cura (vínculo, informar duração e importância da tomada diária, avaliar contatos). Busca ativa: perguntar sobre tosse a todos. **Coleta de escarro:** local aberto e ventilado; água antes e higiene oral sem escovar; 5–10 mL; inspirar fundo, prender ~10 s e tossir forte; uma amostra na hora e outra na manhã seguinte. Papel da APS: notificar, avaliar contatos, pesar mensalmente, tratar/encaminhar efeitos adversos, escarro mensal, coordenar cuidado (saúde mental, assistência social). **Encaminhar:** dúvida diagnóstica, evolução ruim, intolerância grave, resistência na cultura.
+
+**Contatos:** definidos como exposição ao caso-índice (domicílio, trabalho, ILPI, escola). *Sintomáticos* → escarro (baciloscopia/TRM-TB), Rx e outros exames; *assintomáticos* → prova tuberculínica e/ou Rx, com TPT se indicado; *assintomáticos com HIV* → TPT independentemente da PT, excluída TB ativa.
+
+**Prevenção**
+- **BCG:** bacilos vivos atenuados de *M. bovis*; eficácia ~75% contra formas miliar e meníngea; intradérmica no deltoide direito. *Indicações:* RN ≥ 2 kg; crianças de 0–4 anos (preferencialmente < 1 ano); contatos domiciliares de hanseníase > 1 ano sem cicatriz ou vacinados há > 6 meses; crianças HIV+ até 4 anos 11 meses 29 dias assintomáticas. *Contraindicações:* adultos HIV+ (qualquer CD4); crianças HIV+ ≥ 5 anos; imunodeficiências congênitas; neoplasias malignas; corticoide em dose alta (≥ 2 mg/kg/dia de prednisona até 10 kg, ou ≥ 20 mg/dia > 10 kg) por > 2 semanas; outras imunossupressões; gestantes; RN de mães que usaram anti-TNF ou imunomoduladores nos dois últimos trimestres.
+- **RN coabitante de bacilífero:** não vacinar ao nascer; isoniazida por 3 meses, depois PT: ≥ 5 mm mantém isoniazida mais 3–6 meses; < 5 mm suspende e aplica BCG.
+- **TPT — sem PT/IGRA:** RN coabitantes de caso confirmado laboratorialmente; PVHA contatos de TB pulmonar confirmada; PVHA com CD4 ≤ 350; PVHA com PT ≥ 5 mm documentada sem tratamento prévio; PVHA com cicatriz radiológica sem tratamento prévio. **PT ≥ 5 mm ou IGRA+:** contatos (independente de BCG); PVHA com CD4 > 350 ou sem CD4; sequela fibrótica; anti-TNF ou corticoide (> 15 mg de prednisona > 1 mês); pré-transplante. **PT ≥ 10 mm ou IGRA+:** silicose; neoplasia de cabeça e pescoço, linfomas e hematológicas; neoplasia com imunossupressão; IR/diálise; diabetes; baixo peso (< 85% do ideal); tabagismo (> 1 maço/dia); calcificação isolada. **Conversão** (2ª PT com aumento ≥ 10 mm): contatos de caso confirmado, profissionais de saúde, trabalhadores de ILPI.
+- **Esquemas de TPT:** *isoniazida* (preferencial na ILTB) — 270 doses diárias em 9–12 meses, ou 180 doses em 6–9 meses; *rifampicina* — preferencial se > 50 anos, crianças < 10, hepatopatas, contatos de monorresistentes à H, intolerância à H; **contraindicada em PVHA com inibidores de protease ou dolutegravir**; ≥ 120 doses em idealmente 4 meses (até 6); *isoniazida + rifapentina* — 12 doses semanais (12–15 semanas). (Guias vazios; esquema de tratamento e doses não constam no texto extraído.)

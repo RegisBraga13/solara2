@@ -1,0 +1,15 @@
+# Pneumonia Fúngica
+
+**Definição:** doença pulmonar de etiologia fúngica.
+
+**Quadro clínico:** febre, tosse geralmente seca, dor pleurítica, dispneia progressiva, sintomas obstrutivos por adenopatia, hemoptise; viagem a área endêmica; sinais extrapulmonares (artrite, artralgia, eritema nodoso, eritema multiforme, pericardite), hipersensibilidade, meningoencefalite (imunocomprometidos). Em neutropênicos/imunossuprimidos, **febre persistente sem resposta a antibiótico** pode ser sinal precoce. Exame físico inespecífico (febre, taquicardia, taquipneia, esforço respiratório).
+**Fatores de risco:** exposição ocupacional a excretas de aves, morcegos, roedores (histoplasmose); trauma de pele com solo (esporotricose); água contaminada ou desastres naturais (*Pseudallescheria/Scedosporium*); solo (*Coccidioides*); leucemia aguda/linfoma em quimioterapia mieloablativa; transplante; corticoide prolongado; aids; imunodeficiências congênitas; pós-esplenectomia; predisposição genética.
+**Complicações:** doença disseminada, sepse, invasão de capilares pulmonares ou miocárdicos, êmbolos sépticos, fístulas broncopleural/traqueoesofágica, fibromatose mediastinal, broncolitíase, pericardite. Prognóstico depende da gravidade e comorbidades.
+
+**Diagnóstico:** difícil, geralmente presuntivo (clínica + imagem + microbiologia). *Candida*, *Aspergillus* e *Scedosporium* podem colonizar sem invasão; não há marcador sérico que distinga colonização de infecção. Cultura convencional pouco acurada, mas solicitar; **galactomanana e beta-D-glucana** complementam na doença invasiva; microscopia de escarro ou lavado broncoalveolar, hemoculturas, biópsia (tecido, nódulos mediastinais) com histopatologia; **PCR** é mais rápido e sensível que cultura; sorologia (ELISA, látex) útil para *Candida*, blastomicose e histoplasmose; imagem complementar.
+**Diferenciais:** SDRA, pneumonias química, bacteriana, viral, atípica, aspirativa e eosinofílica, pneumoconiose, pneumocistose, edema pulmonar cardiogênico/neurogênico, fibrose pulmonar, tuberculose.
+
+**Conduta:** internar se grave ou antibiótico venoso; alta com estabilidade clínica, hemodinâmica e laboratorial.
+
+**Tratamento:** depende do agente: triazóis, equinocandinas, anfotericina B; em geral EV inicial e depois VO prolongado. Micoses endêmicas podem remitir em imunocompetentes; cirurgia, corticoide ou anti-inflamatório quando necessário.
+- Aspergilose: voriconazol, anfotericina B, posaconazol, equinocandinas, isavuconazol. Blastomicose: anfotericina B, itraconazol, cetoconazol, fluconazol. Candidíase: anfotericina B, flucitosina, fluconazol, equinocandinas. Coccidioidomicose: anfotericina B, fluconazol, itraconazol. Criptococose: anfotericina B, fluconazol, flucitosina. Esporotricose: itraconazol, anfotericina B. Histoplasmose: anfotericina B, azóis. Mucormicose: anfotericina B lipídica, posaconazol, caspofungina, isavuconazol. Scedosporiose: resistente a anfotericina B e equinocandinas; **voriconazol**, possivelmente com terbinafina.

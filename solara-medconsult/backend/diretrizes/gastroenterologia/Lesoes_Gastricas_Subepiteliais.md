@@ -1,0 +1,31 @@
+# Lesões Gástricas Subepiteliais
+
+> Resumo em palavras próprias do Whitebook (Medicina Interna > Gastroenterologia), sem fisiopatologia, autoria e referências. Confira detalhes na fonte: https://whitebook.pebmed.com.br/conteudo/?id=48987&categoryId=26&subcategoryId=79
+
+**Definição:** abaulamentos para a luz gástrica cobertos por mucosa de aspecto normal, em geral achado incidental na EDA.
+
+**Epidemiologia:** ~1 a cada 300 EDAs; até 20% são potencial ou definitivamente malignas.
+
+**Quadro clínico:** em geral assintomáticas; as grandes podem causar dor torácica/abdominal, sangramento, obstrução ou massa palpável.
+
+**Principais lesões**
+- **Compressão extrínseca:** estruturas normais ou lesões extraluminais mimetizam lesão intramural.
+- **Leiomioma / leiomiossarcoma:** raros no estômago (mais no esôfago); lesão arredondada, mucosa íntegra, consistência firme-borrachosa, sem úlcera. Leiomioma: origem na muscular própria (4ª camada), raramente muscular da mucosa (2ª); hipoecoico. Imuno-histoquímica: actina e desmina positivas, CD117 (c-kit) negativo (diferencia de GIST).
+- **GIST:** geralmente assintomático; dor ou sangramento se grande ou ulcerado. Células fusiformes/epitelioides (de Cajal), CD117 positivo (critério principal); nestina (90–100%) e CD34 (70%) inespecíficos. Eco: sólido, hipoecoico, em geral homogêneo, margens definidas, na 4ª camada (ou 2ª); heterogeneidade = necrose, fibrose ou degeneração hialina. Risco de metástase depende de tamanho, mitoses e necrose: gástrico ≤ 2 cm ~0%; 3–5 cm com baixo índice mitótico 3%; com alto índice 16%; no delgado, até 50% mesmo < 2 cm com alto índice mitótico. Sinais de malignidade: > 2 cm, bordas irregulares, ulceração, heterogeneidade, focos anecoicos/hiperecogênicos, cistos > 4 mm, > 5 mitoses/50 CGA, linfonodos. Pior prognóstico na junção esofagogástrica/fundo que no antro.
+- **Lipoma:** benigno, solitário, amarelado, regular; "sinal do travesseiro" à compressão e "sinal da tenda" ao tracionar a mucosa; eco hiperecoico, homogêneo, margens regulares, 3ª camada (submucosa).
+- **Varizes gástricas:** estruturas tubulares azuladas e tortuosas; eco anecoicas, na lâmina própria ou submucosa, com Doppler positivo.
+- **Pâncreas ectópico:** lesão elevada com umbilicação central, antro na grande curvatura; eco hipoecoico e heterogêneo, em geral na submucosa (às vezes 2ª ou 4ª), com possível centro anecoico (ducto).
+- **Neuroendócrino (carcinoide):** hipoecoico bem delimitado, 3ª camada. Tipo 1 (atrofia, hipergastrinemia, anemia perniciosa): metástase 3–7%; tipo 2 (gastrinoma/NEM1): 10–30%; tipo 3 (esporádico, agressivo, pode ter síndrome carcinoide): 70%. Tipos 1 e 2 em geral pequenos, múltiplos e indolentes.
+- **Tumor de células granulares (Abrikossoff):** TGI em ~5% (língua, pele e mama são mais comuns); eco hipo/isoecoico, homogêneo, margens regulares, mucosa profunda/submucosa; S-100 característico (também CD57, enolase neuronal, vimentina, nestina); maligno em 1–3%.
+
+**Diagnóstico**
+- **EDA:** tamanho, forma, mobilidade, consistência, pulsação, cor, mucosa; mudança de decúbito e insuflação distinguem massa intramural de compressão extrínseca (desaparecimento completo = extrínseca). Biópsia convencional rende pouco (epitélio normal), mas pode resolver lesões da lâmina própria/muscular da mucosa; evitar se suspeita vascular.
+- US abdominal e TC: baixa acurácia em lesões pequenas, úteis para compressão extrínseca e estadiamento; CEUS com Sonovue pode diferenciar GIST (hiper-realce) de leiomioma.
+- **Ecoendoscopia:** define se é intra ou extramural, camada de origem (mucosa, submucosa, muscular própria, adventícia/serosa), ecogenicidade, homogeneidade, tamanho, contornos, calcificações, cistos, vascularização e linfonodos; permite punção com agulha fina ou biópsia com incisão de mucosa. Acurácia da punção: ≤ 2 cm 71%; 2–4 cm 86%; > 4–5 cm 95–100%. Biopsiar lesões ≥ 2 cm ou suspeitas de GIST com sinais de malignidade ou indicação de ressecção/tratamento oncológico. Pinça jumbo (biópsia sobre biópsia): rendimento 30–40%, sangramento em até 1/3, fibrose que dificulta ressecção.
+- Padrões à eco (camadas: 1 mucosa, 2 muscular da mucosa, 3 submucosa, 4 muscular própria, 5 serosa): leiomioma 2/4, hipoecoico, margens nítidas; GIST 2/4, hipoecoico homogêneo, margens indistintas; lipoma 3, hiperecoico (a tabela da fonte o lista como hipoecoico homogêneo, mas o texto e o padrão clássico são hiperecoicos); carcinoide 2/3; pâncreas ectópico 3 (ou 4); tumor glômico 3/4, hipervascular; schwannoma 4; pólipo fibroide inflamatório 2/3; cisto de duplicação qualquer camada, anecoico, sem Doppler; linfangioma 3, anecoico com septos; hiperplasia de Brunner 2/3, hiperecoica, no bulbo.
+
+**Diagnóstico diferencial:** GIST, leiomioma, leiomiossarcoma, carcinoide, pâncreas ectópico, células granulares, cistos de duplicação, compressão extrínseca, varizes, lipoma, linfangioma, hemangioma, glômico, pólipos, linfoma, metástases, tumores neurais.
+
+**Acompanhamento:** < 1 cm: repetir EDA em 1 ano (ecoendoscopia se crescer). 1–2 cm: ecoendoscopia; se não diagnóstica, EDA em 3–6 meses e depois a cada 1–2 anos. > 2 cm: ecoendoscopia; se não ressecada, repetir em 6 meses e depois a cada 6–12 meses.
+
+**Tratamento:** individualizar por tamanho, aspecto, sintomas, condição clínica e recursos. Assintomáticas > 1 cm: ecoendoscopia. Elevada umbilicada de antro típica de pâncreas ectópico dispensa eco. Leiomiomas gigantes e leiomiossarcomas: cirurgia. Lipoma assintomático: sem seguimento ou ressecção; ressecar se sintomático ou se não excluir lipossarcoma. Hipoecoica de mucosa profunda/submucosa até 2 cm: ressecção endoscópica. Carcinoide ≤ 1 cm, mucosa/submucosa e < 5 lesões: ressecção endoscópica, vigilância a cada 1–2 anos (margens livres) ou 3–6 meses (margem comprometida/indeterminada); > 2 cm, invasão da muscular própria ou tipo 3: gastrectomia com linfadenectomia. Muscular própria hipoecoica = GIST: cirurgia se > 2 cm com úlcera ou sinais eco de malignidade (cistos, focos ecogênicos, contorno irregular) ou sintomático (dor, hemorragia); sem alto risco, seguir a cada 6–12 meses. Alguns defendem ressecar todo GIST. Ressecção completa em bloco, sem ruptura (pior prognóstico); margem ampla desnecessária; evitar implante no sítio.

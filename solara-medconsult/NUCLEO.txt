@@ -1,0 +1,90 @@
+# Núcleo do espec·IA·lidades: identidade visual e fluxo compartilhados por TODAS as especialidades.
+# Uma linha por caminho (arquivo ou pasta), relativo à raiz do repositório. "#" começa comentário.
+# Mudou aqui? Só na branch `main` (base única). Especialidades são CONTEÚDO, não cópias:
+# ficam em backend/app/especialidades/, frontend/src/lib/especialidade.ts, backend/diretrizes/<esp>/.
+# Conferir uma branch qualquer: py -3 scripts/verificar_nucleo.py --outro <branch>
+
+# --- Identidade visual (Modern Skeuomorphism) ---
+frontend/src/app/globals.css
+frontend/src/app/layout.tsx
+frontend/tailwind.config.ts
+frontend/postcss.config.js
+frontend/public
+frontend/src/components/BigButton.tsx
+frontend/src/components/Panel.tsx
+frontend/src/components/Chip.tsx
+frontend/src/components/Tela.tsx
+frontend/src/components/TelaSimples.tsx
+frontend/src/components/TopBar.tsx
+frontend/src/components/BackButton.tsx
+frontend/src/components/BarraConsulta.tsx
+frontend/src/components/ProgressDots.tsx
+frontend/src/components/LuzTempo.tsx
+frontend/src/components/ThemeToggle.tsx
+frontend/src/components/ConfirmDialog.tsx
+frontend/src/components/AvisoDialog.tsx
+frontend/src/components/ChartCard.tsx
+frontend/src/components/Providers.tsx
+frontend/src/lib/tema.ts
+frontend/src/lib/tempo.ts
+frontend/src/lib/datas.ts
+frontend/src/lib/uuid.ts
+
+# --- Fluxo: Atendimento -> Modalidade -> consulta / retorno / prontuário ---
+frontend/src/app/page.tsx
+frontend/src/app/modalidade
+frontend/src/app/paciente
+frontend/src/app/pacientes
+frontend/src/app/nova-consulta
+frontend/src/app/retorno
+frontend/src/app/prontuarios
+frontend/src/app/evolucao
+frontend/src/components/IniciarConsulta.tsx
+frontend/src/components/ConsultaEmAndamento.tsx
+frontend/src/components/SeletorPaciente.tsx
+frontend/src/components/FormularioPaciente.tsx
+frontend/src/components/ConsultaAnterior.tsx
+frontend/src/components/SalvoDialog.tsx
+frontend/src/components/GravadorVoz.tsx
+frontend/src/components/ImagensNovas.tsx
+frontend/src/components/LaudosNovos.tsx
+frontend/src/components/CameraCaptura.tsx
+frontend/src/hooks/useComecarConsulta.ts
+frontend/src/hooks/usePersist.ts
+frontend/src/hooks/useEtapa.ts
+frontend/src/lib/rotas.ts
+frontend/src/lib/pacientes.ts
+frontend/src/lib/pdf.ts
+frontend/src/lib/audio.ts
+frontend/src/lib/websocket.ts
+
+# --- Servidor: pacientes, prontuários, laudos, imagens, voz ---
+backend/app/routers/pacientes.py
+backend/app/routers/prontuarios.py
+backend/app/routers/laudos.py
+backend/app/routers/captura.py
+backend/app/repositorio.py
+backend/app/storage.py
+backend/app/db.py
+backend/app/motores/voz.py
+backend/app/motores/imagens.py
+backend/app/motores/embeddings.py
+
+# --- Motores, contratos e estado (o conteúdo clínico vem de especialidades/, não daqui) ---
+frontend/src/lib/api.ts
+frontend/src/lib/sugestoes.ts
+frontend/src/lib/prontuario.ts
+frontend/src/lib/historia.ts
+frontend/src/store/consulta.ts
+frontend/src/components/EscalasClinicas.tsx
+backend/app/especialidades/__init__.py
+backend/app/config.py
+backend/app/motores/listas.py
+backend/app/motores/diagnostico.py
+backend/app/motores/historia.py
+backend/app/motores/web.py
+backend/app/motores/rag.py
+backend/app/routers/sugestoes.py
+
+# --- Testes que guardam a identidade ---
+frontend/tests/design.test.ts

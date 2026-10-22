@@ -1,0 +1,14 @@
+{
+  "identities": [
+    {
+      "name": "medconsult",
+      "credentials": [
+        {
+          "accessKey": "medconsult",
+          "secretKey": "medconsult-dev-secret"
+        }
+      ],
+      "actions": ["Admin", "Read", "Write", "List", "Tagging"]
+    }
+  ]
+}

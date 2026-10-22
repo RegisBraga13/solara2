@@ -1,0 +1,327 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ---------- Tokens (tema por classe no <html>: day | night) ---------- */
+/* "leather"/"leather-dark" são hoje o acento NAVY (nome mantido para não quebrar as classes
+   .skeu-leather/.btn-primary já usadas em todo o app); "terracotta" é o latão/dourado do foco. */
+:root,
+:root.day {
+  --color-bg: #efeae2;
+  --color-surface: #f5f0e8;
+  --color-surface-elevated: #ffffff;
+  --color-surface-sunken: #e5dfd5;
+  --color-leather: #1e3a5f;
+  --color-leather-dark: #142a47;
+  --color-terracotta: #b8923f;
+  --color-mint: #a8c9a8;
+  --color-lilac: #c8b8d8;
+  --color-text-primary: #1c2430;
+  --color-text-secondary: #6b7280;
+  --color-text-on-accent: #ffffff;
+  --color-border-soft: #e0dad0;
+  --color-border-strong: #d0c8bc;
+  --color-ok: #3f8a52;
+  --color-accent-text: #1e3a5f;
+  --color-ia: #b36b00;
+  --shadow-raised: 0 1px 2px rgba(20, 30, 45, 0.06), 0 2px 8px rgba(20, 30, 45, 0.08);
+  --shadow-raised-hover: 0 2px 4px rgba(20, 30, 45, 0.08), 0 4px 14px rgba(20, 30, 45, 0.1);
+  --shadow-pressed: inset 0 1px 3px rgba(20, 30, 45, 0.14);
+  --shadow-card: 0 1px 3px rgba(20, 30, 45, 0.06), 0 4px 16px rgba(20, 30, 45, 0.08);
+  --shadow-sunken: inset 0 1px 3px rgba(20, 30, 45, 0.08);
+  --paper-opacity: 0.05;
+  color-scheme: light;
+}
+
+:root.night {
+  --color-bg: #111826;
+  --color-surface: #17202e;
+  --color-surface-elevated: #1e293b;
+  --color-surface-sunken: #0b1119;
+  --color-leather: #33517a;
+  --color-leather-dark: #223654;
+  --color-terracotta: #d4b06a;
+  --color-mint: #a8d8c8;
+  --color-lilac: #b8a8d8;
+  --color-text-primary: #e6e9ed;
+  --color-text-secondary: #8d97a8;
+  --color-text-on-accent: #ffffff;
+  --color-border-soft: #263044;
+  --color-border-strong: #374258;
+  --color-ok: #7fd1a3;
+  --color-accent-text: #7fa8d4;
+  --color-ia: #ffb84d;
+  --shadow-raised: 0 1px 2px rgba(0, 0, 0, 0.3), 0 2px 8px rgba(0, 0, 0, 0.3);
+  --shadow-raised-hover: 0 2px 4px rgba(0, 0, 0, 0.34), 0 4px 14px rgba(0, 0, 0, 0.34);
+  --shadow-pressed: inset 0 1px 3px rgba(0, 0, 0, 0.5);
+  --shadow-card: 0 1px 3px rgba(0, 0, 0, 0.3), 0 4px 16px rgba(0, 0, 0, 0.35);
+  --shadow-sunken: inset 0 1px 3px rgba(0, 0, 0, 0.4);
+  --paper-opacity: 0.03;
+  color-scheme: dark;
+}
+
+/* Ruído SVG, bem sutil (grão de papel) — o relevo de couro foi retirado do design. */
+:root {
+  --paper-noise: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)' opacity='0.12'/%3E%3C/svg%3E");
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  background: var(--color-bg);
+  color: var(--color-text-primary);
+  font-family: var(--font-serif), Georgia, "Times New Roman", serif;
+  font-size: 16px;
+  line-height: 1.5;
+  overflow-x: hidden;
+  padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom)
+    env(safe-area-inset-left);
+  transition: background-color 400ms ease, color 400ms ease;
+}
+
+@layer components {
+  /* Transição de tema (400ms) em tudo que tem cor/sombra do design system. */
+  .skeu {
+    transition: background-color 400ms ease, color 400ms ease, border-color 400ms ease,
+      box-shadow 400ms ease;
+  }
+
+  /* Textura sobreposta: abaixo do conteúdo, acima do fundo do próprio elemento. */
+  .skeu-paper,
+  .skeu-leather {
+    position: relative;
+    isolation: isolate;
+  }
+  .skeu-paper::before,
+  .skeu-leather::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    border-radius: inherit;
+    pointer-events: none;
+  }
+  .skeu-paper::before {
+    background-image: var(--paper-noise);
+    opacity: var(--paper-opacity);
+  }
+  .skeu-leather::before {
+    background-image: var(--leather-noise);
+    mix-blend-mode: multiply;
+    opacity: 0.4;
+  }
+
+  /* Botões */
+  .btn {
+    min-height: 60px;
+    border-radius: 24px;
+    padding: 16px 32px;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    touch-action: manipulation;
+    transition: transform 200ms ease, box-shadow 200ms ease, background-color 400ms ease,
+      color 400ms ease, opacity 200ms ease;
+  }
+  .btn:focus-visible,
+  .chip:focus-visible,
+  .touch:focus-visible {
+    outline: 3px solid var(--color-terracotta);
+    outline-offset: 3px;
+  }
+  .btn:disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+  }
+  .btn-primary {
+    background: linear-gradient(180deg, var(--color-leather) 0%, var(--color-leather-dark) 140%);
+    color: #ffffff;
+    box-shadow: var(--shadow-raised);
+  }
+  .btn-secondary {
+    border: 1px solid var(--color-border-strong);
+    background: var(--color-surface);
+    color: var(--color-text-primary);
+    box-shadow: var(--shadow-raised);
+  }
+  .btn-ghost {
+    background: transparent;
+    color: var(--color-text-primary);
+    box-shadow: none;
+  }
+  @media (hover: hover) {
+    .btn:not(:disabled):hover {
+      transform: translateY(-2px);
+    }
+    .btn-primary:not(:disabled):hover,
+    .btn-secondary:not(:disabled):hover {
+      box-shadow: var(--shadow-raised-hover);
+    }
+  }
+  .btn-primary:not(:disabled):active,
+  .btn-secondary:not(:disabled):active {
+    box-shadow: var(--shadow-pressed);
+    transform: translateY(1px);
+  }
+  .btn-ghost:not(:disabled):active {
+    transform: translateY(1px);
+  }
+
+  /* Chip */
+  .chip {
+    min-height: 44px;
+    border-radius: 12px;
+    padding: 12px 16px;
+    font-size: 16px;
+    font-weight: 500;
+    touch-action: manipulation;
+    transition: background-color 200ms ease, color 200ms ease, box-shadow 200ms ease,
+      border-color 200ms ease;
+  }
+  .chip-off {
+    background: var(--color-surface);
+    border: 1px solid var(--color-border-soft);
+    box-shadow: var(--shadow-raised);
+    color: var(--color-text-primary);
+  }
+  .chip-on {
+    background: var(--color-leather);
+    border: 1px solid var(--color-leather-dark);
+    box-shadow: var(--shadow-pressed);
+    color: #ffffff;
+  }
+
+  /* Campos afundados */
+  .input-sunken {
+    min-height: 48px;
+    width: 100%;
+    border-radius: 12px;
+    border: 1px solid var(--color-border-soft);
+    background: var(--color-surface-sunken);
+    color: var(--color-text-primary);
+    box-shadow: var(--shadow-sunken);
+    padding: 12px 16px;
+    font-size: 16px;
+    transition: background-color 400ms ease, color 400ms ease, box-shadow 400ms ease;
+  }
+  .input-sunken:focus {
+    outline: 2px solid var(--color-terracotta);
+    outline-offset: 2px;
+  }
+
+  /* Esfera de tema (botão redondo em relevo) */
+  .theme-sphere {
+    width: 44px;
+    height: 44px;
+    border-radius: 9999px;
+    border: 1px solid var(--color-border-strong);
+    background: radial-gradient(circle at 32% 30%, #ffe3a8, var(--color-terracotta) 70%);
+    box-shadow: var(--shadow-raised);
+    transition: box-shadow 200ms ease, background 400ms ease;
+  }
+  .theme-sphere:active {
+    box-shadow: var(--shadow-pressed);
+  }
+  :root.night .theme-sphere {
+    background: radial-gradient(circle at 66% 34%, #f5f3ee, #8d8a93 75%);
+  }
+}
+
+/* Luz de tempo da consulta: verde discreto até 44:59; âmbar com respiração (3 s) a partir de 45:00. */
+.luz-normal {
+  background: #6fbf86;
+  box-shadow: 0 0 4px rgba(111, 191, 134, 0.55);
+}
+.luz-alerta {
+  background: #f2b632;
+  box-shadow: 0 0 8px 2px rgba(242, 182, 50, 0.7);
+  animation: respirar 3s ease-in-out infinite;
+}
+@keyframes respirar {
+  0%,
+  100% {
+    opacity: 0.55;
+    box-shadow: 0 0 4px 1px rgba(242, 182, 50, 0.35);
+  }
+  50% {
+    opacity: 1;
+    box-shadow: 0 0 12px 4px rgba(242, 182, 50, 0.85);
+  }
+}
+
+/* Indicador de quem está falando na captura de voz. */
+.voz-ativa {
+  animation: pulsar-voz 1s ease-in-out infinite;
+}
+@keyframes pulsar-voz {
+  0%,
+  100% {
+    transform: scale(1);
+    opacity: 0.8;
+  }
+  50% {
+    transform: scale(1.35);
+    opacity: 1;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .luz-alerta,
+  .voz-ativa {
+    animation: none !important;
+  }
+  * {
+    transition-duration: 1ms !important;
+    animation-duration: 1ms !important;
+  }
+}
+
+.solara-app { min-height: 100vh; display: grid; grid-template-columns: 244px minmax(0, 1fr); background: #f7f8f6; color: #23302d; }
+.solara-sidebar { display: flex; flex-direction: column; border-right: 1px solid #e4e9e5; background: #fff; padding: 32px 20px 22px; }
+.solara-brand { display: flex; align-items: center; gap: 10px; color: #1f3d38; font-size: 25px; font-weight: 700; letter-spacing: -.04em; }
+.solara-mark { display: grid; width: 31px; height: 31px; place-items: center; border-radius: 10px; background: #dcefe8; color: #2e7d69; font-size: 17px; }
+.solara-brand-dot { color: #e89170; }
+.solara-specialty { margin: 9px 0 38px 42px; color: #8a9993; font-size: 11px; }
+.solara-nav { display: grid; gap: 7px; }
+.solara-nav button { display: flex; align-items: center; gap: 13px; border: 0; border-radius: 11px; background: transparent; color: #83918b; padding: 12px 13px; font-size: 14px; font-weight: 600; text-align: left; }
+.solara-nav button:hover, .solara-nav button.is-active { background: #eef7f3; color: #2e7d69; }
+.solara-nav button span { width: 18px; font-size: 18px; text-align: center; }
+.solara-sidebar-footer { margin-top: auto; border-radius: 14px; background: #f5f8f6; color: #63736c; padding: 14px; font-size: 12px; font-weight: 600; }
+.solara-sidebar-footer p { margin: 7px 0 0; color: #98a59f; font-size: 11px; font-weight: 400; line-height: 1.5; }
+.status-dot { display: inline-block; width: 7px; height: 7px; margin-right: 6px; border-radius: 50%; background: #69b58b; }
+.solara-content { min-width: 0; }
+.solara-topbar { display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid #e7ece8; background: rgba(255,255,255,.78); padding: 26px clamp(22px, 4vw, 58px); }
+.eyebrow { margin: 0 0 7px; color: #8a9993; font-size: 10px; font-weight: 800; letter-spacing: .15em; text-transform: uppercase; }
+.solara-topbar h1, .section-heading h2, .data-card h2 { margin: 0; color: #263a35; font-size: 22px; letter-spacing: -.03em; }
+.solara-profile { display: flex; align-items: center; gap: 16px; }
+.status-pill { border: 1px solid #dcebe1; border-radius: 999px; color: #5e8f73; padding: 8px 12px; font-size: 11px; font-weight: 700; }
+.profile-avatar { display: grid; width: 38px; height: 38px; place-items: center; border-radius: 13px; background: #f5d9ce; color: #914f3d; font-size: 12px; font-weight: 800; }
+.solara-main { max-width: 1160px; margin: 0 auto; padding: 34px clamp(22px, 4vw, 58px) 54px; }
+.active-consultation { display: flex; align-items: center; justify-content: space-between; gap: 18px; margin-bottom: 24px; border: 1px solid #f0cbbd; border-radius: 17px; background: #fff8f4; padding: 18px 20px; }
+.active-consultation h2 { margin: 0; font-size: 18px; }.active-consultation p:last-child { margin: 5px 0 0; color: #a4887e; font-size: 12px; }
+.active-consultation button { border: 0; border-radius: 10px; background: #da856d; color: #fff; padding: 11px 16px; font-weight: 700; }
+.hero-copy { display: flex; min-height: 225px; align-items: center; justify-content: space-between; overflow: hidden; border-radius: 22px; background: #e4f1eb; padding: 34px clamp(24px, 4vw, 46px); }
+.hero-copy h2 { margin: 0; color: #244c43; font-size: clamp(27px, 4vw, 45px); line-height: 1.06; letter-spacing: -.055em; }.hero-copy h2 em { color: #d67f66; font-style: normal; }.hero-copy > div:first-child > p:last-child { max-width: 540px; margin: 16px 0 0; color: #66847b; font-size: 14px; line-height: 1.6; }
+.hero-orbit { position: relative; display: grid; width: 155px; height: 155px; flex: 0 0 auto; place-items: center; border: 1px solid #a8d1c0; border-radius: 50%; color: #39836c; font-weight: 800; }.hero-orbit span { z-index: 1; display: grid; width: 64px; height: 64px; place-items: center; border-radius: 50%; background: #fff; box-shadow: 0 10px 25px rgba(55,120,95,.16); }.hero-orbit i { position: absolute; width: 11px; height: 11px; border-radius: 50%; background: #e89b80; }.hero-orbit i:nth-child(2) { top: 12px; right: 24px; }.hero-orbit i:nth-child(3) { bottom: 19px; left: 9px; background: #8fc7b2; }.hero-orbit i:nth-child(4) { right: 4px; bottom: 45px; background: #b6a4d2; }
+.section-heading { display: flex; align-items: end; justify-content: space-between; margin: 31px 0 14px; }.section-heading.compact { margin: 0 0 16px; }.section-note { color: #98a59f; font-size: 12px; }.quick-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }.quick-card { position: relative; display: flex; min-height: 142px; flex-direction: column; align-items: flex-start; justify-content: flex-end; gap: 4px; border: 1px solid #e3eae5; border-radius: 16px; background: #fff; padding: 17px; color: #2b3d38; text-align: left; transition: .18s ease; }.quick-card:hover { transform: translateY(-2px); box-shadow: 0 12px 25px rgba(45,72,61,.09); }.quick-card.primary { border-color: #d57c65; background: #da856d; color: #fff; }.quick-icon { position: absolute; top: 16px; left: 17px; display: grid; width: 35px; height: 35px; place-items: center; border-radius: 10px; background: #eef6f2; color: #46866f; font-size: 20px; }.quick-card.primary .quick-icon { background: rgba(255,255,255,.18); color: #fff; }.quick-title { font-size: 16px; font-weight: 800; }.quick-hint { color: #90a09a; font-size: 12px; }.quick-card.primary .quick-hint { color: rgba(255,255,255,.75); }.quick-arrow { position: absolute; right: 17px; bottom: 17px; font-size: 18px; opacity: .65; }
+.data-grid { display: grid; grid-template-columns: 1.1fr .9fr; gap: 14px; margin-top: 26px; }.data-card, .flow-card { border: 1px solid #e3eae5; border-radius: 17px; background: #fff; padding: 20px; }.text-link { border: 0; background: none; color: #3f876f; font-size: 12px; font-weight: 800; }.patient-list, .record-list { display: grid; gap: 2px; }.patient-list button, .record-list button { display: flex; width: 100%; align-items: center; gap: 10px; border: 0; border-radius: 10px; background: transparent; padding: 9px 4px; text-align: left; }.patient-list button:hover, .record-list button:hover { background: #f3f8f5; }.patient-initials, .record-icon { display: grid; width: 36px; height: 36px; flex: 0 0 auto; place-items: center; border-radius: 10px; background: #dcefe8; color: #3f856d; font-size: 11px; font-weight: 800; }.record-icon { background: #eee8f5; color: #80699b; font-size: 16px; }.patient-list strong, .record-list strong { display: block; font-size: 13px; }.patient-list small, .record-list small { display: block; margin-top: 3px; color: #9aa7a1; font-size: 11px; }.row-arrow { margin-left: auto; color: #9bb1a7; }.empty-state { min-height: 78px; margin: 0; border-radius: 11px; background: #f6f9f7; color: #91a19a; padding: 16px; font-size: 12px; line-height: 1.5; }
+.flow-card { display: flex; align-items: center; justify-content: space-between; gap: 18px; margin-top: 14px; background: #faf8f3; }.flow-card h2 { margin: 0; color: #3d4944; font-size: 18px; }.flow-card p:last-child { margin: 6px 0 0; color: #929e98; font-size: 12px; }.flow-steps { display: flex; gap: 8px; }.flow-steps span { display: flex; align-items: center; gap: 7px; border-radius: 999px; background: #fff; padding: 9px 11px; color: #708078; font-size: 11px; font-weight: 700; }.flow-steps b { color: #da856d; }
+@media (max-width: 900px) { .solara-app { display: block; }.solara-sidebar { display: none; }.solara-topbar { padding: 22px; }.solara-main { padding: 24px 22px 40px; }.hero-orbit { width: 120px; height: 120px; }.data-grid { grid-template-columns: 1fr; } }
+@media (max-width: 620px) { .solara-profile .status-pill { display: none; }.hero-copy { min-height: 270px; align-items: flex-start; }.hero-orbit { position: absolute; right: 28px; margin-top: 88px; transform: scale(.72); }.hero-copy > div:first-child { max-width: 88%; }.quick-grid { grid-template-columns: 1fr; }.quick-card { min-height: 112px; }.section-note { display: none; }.active-consultation { align-items: flex-start; flex-direction: column; }.active-consultation button { width: 100%; }.flow-card { align-items: flex-start; flex-direction: column; }.flow-steps { flex-wrap: wrap; } }
+
+.capture-app { min-height: 100vh; background: #f7f8f6; color: #23302d; }
+.capture-topbar { display: flex; align-items: center; gap: 24px; border-bottom: 1px solid #e4e9e5; background: #fff; padding: 18px clamp(20px, 4vw, 54px); }
+.capture-topbar h1 { margin: 2px 0 0; color: #243a34; font-size: 20px; letter-spacing: -.03em; }.capture-back, .capture-exit { border: 0; background: transparent; color: #668078; font-size: 12px; font-weight: 700; }.capture-back { margin-right: auto; }.capture-top-actions { display: flex; align-items: center; gap: 18px; }.capture-live { border: 1px solid #dcebe1; border-radius: 999px; color: #66927a; padding: 7px 11px; font-size: 11px; font-weight: 800; }.capture-live i { display: inline-block; width: 7px; height: 7px; margin-right: 5px; border-radius: 50%; background: #69b58b; }.capture-live.is-recording { border-color: #f0c9bb; color: #bc6f59; }.capture-live.is-recording i { background: #df7d67; animation: capture-pulse 1.5s infinite; }
+.capture-progress { display: flex; justify-content: center; gap: 28px; border-bottom: 1px solid #e7ece8; background: #fbfcfb; padding: 13px; color: #a0aaa5; font-size: 11px; font-weight: 700; }.capture-progress span.active { color: #d57e68; }.capture-progress span.done { color: #589176; }
+.capture-layout { display: grid; grid-template-columns: 245px minmax(420px, 1fr) 285px; gap: 18px; max-width: 1460px; margin: 0 auto; padding: 24px clamp(18px, 3vw, 42px) 50px; }.capture-left, .capture-right { display: flex; flex-direction: column; gap: 14px; }.capture-patient-card, .capture-side-card, .capture-pending-card, .capture-next-card { border: 1px solid #e2e9e4; border-radius: 16px; background: #fff; padding: 17px; }.capture-patient-head { display: flex; gap: 11px; align-items: center; }.capture-patient-avatar { display: grid; width: 40px; height: 40px; place-items: center; border-radius: 12px; background: #dcefe8; color: #3f856d; font-size: 12px; font-weight: 800; }.capture-patient-card h2 { margin: 2px 0; color: #2d403a; font-size: 15px; }.capture-patient-head p:last-child { margin: 0; color: #9aa7a1; font-size: 11px; }.capture-label { margin: 0; color: #91a099; font-size: 10px; font-weight: 800; letter-spacing: .13em; text-transform: uppercase; }.capture-patient-fields { display: grid; grid-template-columns: 1fr 1fr; gap: 13px 9px; margin-top: 20px; border-top: 1px solid #edf0ed; padding-top: 16px; }.capture-patient-fields span { display: block; color: #a1aca7; font-size: 10px; }.capture-patient-fields strong { display: block; overflow: hidden; margin-top: 2px; color: #55665f; font-size: 11px; font-weight: 700; text-overflow: ellipsis; white-space: nowrap; }.capture-link { margin-top: 19px; border: 0; background: none; color: #43866e; font-size: 11px; font-weight: 800; }.capture-upload { display: flex; position: relative; align-items: center; flex-direction: column; gap: 4px; margin-top: 12px; border: 1px dashed #cbdcd2; border-radius: 12px; padding: 16px 8px; color: #57786b; text-align: center; }.capture-upload span { font-size: 25px; color: #5c9d80; }.capture-upload strong { font-size: 11px; }.capture-upload small { color: #a2aea8; font-size: 10px; }.capture-upload input { position: absolute; inset: 0; cursor: pointer; opacity: 0; }.capture-files { display: grid; gap: 5px; margin: 12px 0 0; padding: 0; list-style: none; color: #73857d; font-size: 11px; }.capture-files li { overflow: hidden; border-radius: 7px; background: #f5f8f6; padding: 7px; text-overflow: ellipsis; white-space: nowrap; }
+.capture-center { min-width: 0; }.capture-section-title { display: flex; align-items: flex-start; justify-content: space-between; gap: 14px; margin-bottom: 16px; }.capture-section-title.compact { margin-bottom: 12px; }.capture-section-title h2 { margin: 3px 0 4px; color: #294039; font-size: 22px; letter-spacing: -.04em; }.capture-section-title p:last-child { margin: 0; color: #899a92; font-size: 12px; line-height: 1.5; }.capture-session, .capture-ai-badge { border-radius: 999px; background: #edf6f1; color: #4f9276; padding: 6px 9px; font-size: 10px; font-weight: 800; }.capture-ai-badge { background: #f4eaf8; color: #8a64a0; }.capture-recorder { display: flex; align-items: center; flex-direction: column; border: 1px solid #e1e9e4; border-radius: 18px; background: #fff; padding: 22px; }.capture-time { color: #314d43; font-size: 33px; font-variant-numeric: tabular-nums; font-weight: 800; letter-spacing: -.04em; }.capture-record-button { display: grid; width: 106px; height: 106px; margin: 13px 0 9px; place-items: center; border: 7px solid #e7f2ec; border-radius: 50%; background: #5caa86; color: #fff; box-shadow: 0 7px 0 #d8e8df; font-size: 29px; }.capture-recorder.recording .capture-record-button { border-color: #f9e5de; background: #dd826b; box-shadow: 0 7px 0 #f0d3ca; }.capture-recorder p { margin: 0; color: #405a50; font-size: 13px; font-weight: 800; }.capture-recorder small { margin-top: 4px; color: #a0aaa5; font-size: 10px; }.capture-notice { margin: 10px 0 0; border-radius: 9px; background: #fff4ef; color: #a55f4f; padding: 10px; font-size: 12px; }.capture-transcript { margin-top: 15px; overflow: hidden; border: 1px solid #e1e9e4; border-radius: 16px; background: #fff; }.capture-transcript-head { display: flex; justify-content: space-between; border-bottom: 1px solid #edf0ed; padding: 12px 15px; color: #536b61; font-size: 11px; font-weight: 800; }.capture-transcript-head span:last-child { color: #a1aea7; font-size: 10px; font-weight: 600; }.capture-transcript-body { min-height: 142px; max-height: 265px; overflow: auto; padding: 15px; }.capture-transcript-body p { margin: 0 0 11px; color: #65766e; font-size: 13px; line-height: 1.5; }.capture-transcript-body b { margin-right: 7px; font-size: 10px; text-transform: uppercase; }.capture-transcript-body .partial { color: #a0aaa5; font-style: italic; }.capture-empty { color: #9aa8a1; font-size: 12px; }.capture-text-entry { margin-top: 15px; }.capture-text-entry label { display: block; margin-bottom: 7px; color: #667a70; font-size: 11px; font-weight: 800; }.capture-text-entry textarea { display: block; width: 100%; min-height: 67px; resize: vertical; border: 1px solid #e1e9e4; border-radius: 13px; outline: 0; background: #fff; padding: 13px; color: #405149; font: inherit; font-size: 12px; }.capture-text-entry textarea:focus { border-color: #7db49c; box-shadow: 0 0 0 3px #e4f1eb; }
+.capture-help { margin: 0 0 14px; color: #8c9b94; font-size: 12px; line-height: 1.55; }.capture-check { width: 100%; border: 0; border-radius: 10px; background: #edf6f1; color: #418269; padding: 11px; font-size: 11px; font-weight: 800; }.capture-check:disabled { cursor: not-allowed; opacity: .5; }.capture-pending-results { display: grid; gap: 8px; margin-top: 14px; }.capture-pending-item { border-radius: 10px; background: #f6f9f7; padding: 10px; }.capture-pending-item small { display: block; color: #8ba198; font-size: 9px; font-weight: 800; text-transform: uppercase; }.capture-pending-item span { display: block; margin-top: 3px; color: #596c63; font-size: 11px; line-height: 1.4; }.capture-red-flags { display: grid; gap: 5px; border-radius: 10px; background: #fff3ef; color: #ae604e; padding: 10px; font-size: 11px; }.capture-red-flags span { color: #8e6d65; }.capture-next-card { margin-top: auto; background: #e5f1eb; }.capture-next-card h3 { margin: 5px 0; color: #315e50; font-size: 16px; }.capture-next-card p:not(.capture-label) { margin: 0; color: #779287; font-size: 11px; line-height: 1.5; }.capture-next-card button { display: flex; width: 100%; align-items: center; justify-content: space-between; margin-top: 17px; border: 0; border-radius: 10px; background: #4e9878; color: #fff; padding: 11px 13px; font-size: 11px; font-weight: 800; }
+@keyframes capture-pulse { 50% { box-shadow: 0 0 0 4px rgba(221,130,107,.18); } }
+@media (max-width: 1100px) { .capture-layout { grid-template-columns: 210px minmax(360px, 1fr); }.capture-right { grid-column: 1 / -1; display: grid; grid-template-columns: 1fr 1fr; }.capture-next-card { margin-top: 0; } }
+@media (max-width: 760px) { .capture-topbar { flex-wrap: wrap; gap: 10px; }.capture-back { width: 100%; }.capture-top-actions { margin-left: auto; }.capture-progress { justify-content: flex-start; gap: 16px; overflow: auto; white-space: nowrap; }.capture-layout { display: flex; flex-direction: column; padding: 17px; }.capture-left { order: 2; }.capture-center { order: 1; }.capture-right { order: 3; display: flex; }.capture-patient-fields { grid-template-columns: 1fr 1fr; }.capture-section-title h2 { font-size: 19px; } }
+
+/* Shell clínico inspirado em produtos de escriba: navegação persistente,
+   ações rápidas e cartões densos para uso em consultório. */

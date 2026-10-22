@@ -1,0 +1,17 @@
+# Terapia Nutrológica na DPOC
+
+**Contexto:** a DPOC é a 3ª causa de morte no mundo e é sistêmica (inflamação, alterações metabólicas, perda muscular, mudança da composição corporal, comorbidades). Desnutrição afeta 20–45%, é subdiagnosticada e se associa a pior função pulmonar, mais exacerbações, perda muscular, menor capacidade funcional e qualidade de vida e maior mortalidade (causas: menos apetite, dispneia, mediadores inflamatórios, hipercatabolismo). A intervenção nutricional busca prevenir/tratar desnutrição, preservar massa muscular e força respiratória, melhorar tolerância ao exercício, reduzir complicações e internações, favorecer a reabilitação e a sobrevida.
+
+**Avaliação:** monitorar caquexia pulmonar e perda de peso involuntária nas consultas. IMC isolado não basta. Incluir avaliação clínica e do consumo alimentar, antropometria (peso, estatura, IMC, circunferência abdominal, pregas, bioimpedância), dinamometria, bioquímica, resposta imune celular, deglutição e consistência da dieta.
+- **Fenótipos:** *caquético* (o mais grave: enfisema importante, hiperinsuflação, perda de peso, gordura e músculo, atrofia e transição de fibras tipo I para II, osteoporose, resistência à insulina, catabolismo e inflamação); *obeso* (IMC alto, bronquite crônica, gordura subcutânea e visceral, possível sarcopenia, rigidez arterial, risco cardiovascular); *obesidade sarcopênica* (perda de músculo com gordura mantida ou aumentada; ~50% dos DPOC, mesmo com peso aparentemente normal). Terapia individualizada pelo fenótipo.
+- Excesso de peso favorece retenção de CO2 e síndrome de hipoventilação do obeso; circunferência abdominal alta compromete o diafragma.
+
+**Terapia nutricional:** considerar diabetes, osteoporose, doença cardiovascular, síndrome metabólica e obesidade.
+- **Meta:** IMC 21–30 kg/m², preservar ou recuperar massa muscular e a massa livre de gordura (marcador de pior prognóstico). IMC < 21 associa-se a mais mortalidade, exacerbações, pior função, internação longa e perda muscular.
+- Doença avançada: calorias adequadas ao gasto basal; refeições pequenas e fracionadas, de pouco preparo (suplementos líquidos); repouso antes das refeições; multivitamínico; padrão tipo mediterrâneo (frutas, hortaliças, peixe 2–3×/semana, gorduras insaturadas, menos saturadas e trans).
+- **Energia:** Harris-Benedict (homem: TMB = 66,47 + 13,75 × peso + 5,0 × estatura − 6,76 × idade; mulher: 665,10 + 9,56 × peso + 1,85 × estatura − 4,68 × idade); gasto total ≈ TMB × 1,4 (estimativa; preferir calorimetria indireta se disponível).
+- **Macronutrientes:** proteína ~20% do VET, 1,2–1,5 g/kg/dia, 20–30 g por refeição; carboidratos < 50% do VET (complexos, menos açúcares simples, pela alta prevalência de DM2 e síndrome metabólica); lipídios < 35% do VET (mono e poli-insaturados, ômega-3; excesso de gordura retarda o esvaziamento gástrico e piora o desconforto respiratório).
+- Suplemento isolado em geral não evita a perda muscular; associar: otimizar a função pulmonar (menos trabalho respiratório e gasto calórico), exercício regular, melhor oxigenação tecidual (oxigênio, corrigir anemia, otimizar cardíaco).
+- Se a dieta não bastar: suplemento oral, enteral ou parenteral; preferir a via oral quando possível.
+
+**Medicamentos:** agentes anabólicos (testosterona, nandrolona) em caquexia/sarcopenia aumentam peso e massa magra, mas sem melhora consistente de espirometria, força de preensão ou TC6M; evidência insuficiente (poucos estudos, populações heterogêneas, segurança de longo prazo desconhecida) para uso rotineiro.
